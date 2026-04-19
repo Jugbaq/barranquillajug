@@ -38,21 +38,27 @@ const TestimonialSlider = () => {
                       </svg>
 
                       <Swiper
-                        {...SliderProps.milReviewsSlider}
-                        className="swiper-container mil-reviews-slider"
+                          {...SliderProps.milReviewsSlider}
+                          pagination={{
+                              el: '.mil-revi-pagination',
+                              clickable: true,
+                              renderBullet: function (index, className) {
+                                  // Aquí construimos cada "puntito" inyectando la imagen correspondiente del array
+                                  return `<span class="${className}"><img src="${Data.items[index].image}" alt="${Data.items[index].name}" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;" /></span>`;
+                              }
+                          }}
+                          className="swiper-container mil-reviews-slider"
                       >
-                        {Data.items.map((item, key) => (
-                        <SwiperSlide className="swiper-slide" key={`testimonial-slider-item-${key}`}>
-                          <div className="mil-review-frame mil-center" data-swiper-parallax="-200" data-swiper-parallax-opacity="0">
-                              <div style={{width: "80px", height: "80px", borderRadius: "50%", overflow: "hidden", margin: "0 auto 20px"}}>
-                                <img src={item.image} alt={item.name} style={{width: "100%", height: "100%", objectFit: "cover"}} />
-                              </div>
-                              <h5 className="mil-up mil-mb-10">{item.name}</h5>
-                              <p className="mil-mb-5 mil-upper mil-up mil-mb-30">{item.role}</p>
-                              <p className="mil-text-xl mil-up">{item.text}</p>
-                          </div>
-                        </SwiperSlide>
-                        ))}
+                          {Data.items.map((item, key) => (
+                              <SwiperSlide className="swiper-slide" key={`testimonial-slider-item-${key}`}>
+                                  <div className="mil-review-frame mil-center" data-swiper-parallax="-200" data-swiper-parallax-opacity="0">
+                                      {/* Aquí estaba la imagen manual, ya la quitamos para que solo quede el texto */}
+                                      <h5 className="mil-up mil-mb-10">{item.name}</h5>
+                                      <p className="mil-mb-5 mil-upper mil-up mil-mb-30">{item.role}</p>
+                                      <p className="mil-text-xl mil-up">{item.text}</p>
+                                  </div>
+                              </SwiperSlide>
+                          ))}
                       </Swiper>
 
                   </div>

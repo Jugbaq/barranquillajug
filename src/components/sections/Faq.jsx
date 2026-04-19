@@ -9,32 +9,72 @@ const FaqSection = () => {
   };
 
   return (
-    <section id="faq" className="mil-p-120-90">
-      <div className="container">
-        <div className="mil-center mil-mb-90">
-          <h2 className="mil-up mil-mb-30" dangerouslySetInnerHTML={{__html: FaqData.title}}></h2>
-          <p className="mil-up mil-mb-30">{FaqData.description}</p>
-        </div>
-        
-        <div className="row">
-          <div className="col-lg-10 offset-lg-1">
-            {FaqData.items.map((item, key) => (
-              <div className={`mil-accordion-item mil-mb-30 ${activeItem === key ? 'mil-active' : ''}`} key={`faq-item-${key}`}>
-                <div className="mil-accordion-head" onClick={() => toggleItem(key)} style={{cursor: 'pointer'}}>
-                  <h5>{item.question}</h5>
-                  <span className="mil-accordion-icon">
-                    <i className={`fas ${activeItem === key ? 'fa-minus' : 'fa-plus'}`}></i>
-                  </span>
-                </div>
-                <div className="mil-accordion-content" style={{height: activeItem === key ? 'auto' : '0', overflow: 'hidden'}}>
-                  <p>{item.answer}</p>
-                </div>
+    <>
+      {/* faq */}
+      <section id="faq" className="mil-soft-bg">
+        <div className="container mil-p-120-90">
+          <div className="row justify-content-between align-items-start">
+
+            <div className="col-lg-4 mil-mb-60">
+              <div style={{position: "sticky", top: "120px"}}>
+                <span className="mil-suptitle mil-suptitle-dark mil-up" style={{display: "block", marginBottom: "20px"}}>Preguntas frecuentes</span>
+                <h2 className="mil-up mil-mb-30" dangerouslySetInnerHTML={{__html: FaqData.title}} />
+                <p className="mil-up">{FaqData.description}</p>
               </div>
-            ))}
+            </div>
+
+            <div className="col-lg-7">
+              {FaqData.items.map((item, key) => (
+                <div
+                  key={`faq-item-${key}`}
+                  className="mil-up mil-mb-30"
+                  style={{
+                    borderBottom: "solid 1px rgba(0,0,0,0.1)",
+                    paddingBottom: "30px"
+                  }}
+                >
+                  <div
+                    onClick={() => toggleItem(key)}
+                    style={{
+                      cursor: "pointer",
+                      display: "flex",
+                      justifyContent: "space-between",
+                      alignItems: "center",
+                      gap: "20px"
+                    }}
+                  >
+                    <h5 style={{margin: 0, flex: 1}}>{item.question}</h5>
+                    <div
+                      style={{
+                        width: "40px",
+                        height: "40px",
+                        borderRadius: "50%",
+                        background: activeItem === key ? "#ff5e14" : "rgba(0,0,0,0.08)",
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        flexShrink: 0,
+                        transition: "background 0.3s"
+                      }}
+                    >
+                      <i
+                        className={`fas ${activeItem === key ? "fa-minus" : "fa-plus"}`}
+                        style={{color: activeItem === key ? "#fff" : "#333", fontSize: "14px"}}
+                      />
+                    </div>
+                  </div>
+                  <div style={{height: activeItem === key ? "auto" : "0", overflow: "hidden", transition: "height 0.3s"}}>
+                    <p style={{marginTop: "20px", marginBottom: 0}}>{item.answer}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+      {/* faq end */}
+    </>
   );
 };
 
