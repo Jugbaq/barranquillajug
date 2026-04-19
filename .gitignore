@@ -14,7 +14,6 @@
 /build
 
 # misc
-.DS_Store
 *.pem
 
 # debug
@@ -25,3 +24,10 @@ yarn-error.log*
 # env files (¡Muy importante que no subas tus variables de entorno!)
 .env*.local
 .env.idea/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
