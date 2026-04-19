@@ -8,13 +8,13 @@ import ArrowIcon from "@layouts/svg-icons/Arrow";
 const Contact = () => {
   return (
     <Layouts>
-        <PageBanner pageTitle={"Get in touch!"} breadTitle={"Contact"} anchorLabel={"Send message"} anchorLink={"#contact"} paddingBottom={1} align={"center"} />
+        <PageBanner pageTitle={"Contáctenos"} breadTitle={"Contacto"} anchorLabel={"Enviar mensaje"} anchorLink={"#contact"} paddingBottom={1} align={"center"} />
 
         {/* map */}
         <div className="mil-map-frame mil-up">
             <div className="mil-map">
                 <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1396.5769090312324!2d-73.6519672!3d45.5673453!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91f8abc30e0ff%3A0xfc6d9cbb49022e9c!2sManoir%20Saint-Joseph!5e0!3m2!1sen!2sua!4v1685485811069!5m2!1sen!2sua" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.289326985578!2d-74.7812!3d10.9639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef42d6b7b3d6e29%3A0x8e8b5b3b3b3b3b3b!2sBarranquilla%2C%20Atl%C3%A1ntico%2C%20Colombia!5e0!3m2!1ses!2s!4v1685485811069!5m2!1ses!2s" 
                 style={{"border": "0"}} 
                 allowFullScreen 
                 loading="lazy" 
@@ -27,7 +27,7 @@ const Contact = () => {
         {/* contact form */}
         <section id="contact">
             <div className="container mil-p-120-90">
-                <h3 className="mil-center mil-up mil-mb-120">Let's <span className="mil-thin">Talk</span></h3>
+                <h3 className="mil-center mil-up mil-mb-120">Contáctenos</h3>
 
                 <Formik
                 initialValues = {{ email: '', name: '', message: '' }}
@@ -91,7 +91,7 @@ const Contact = () => {
                     <div className="col-lg-6 mil-up">
                         <input 
                             type="text" 
-                            placeholder="What's your name"
+                            placeholder="¿Cuál es tu nombre?"
                             name="name" 
                             required="required" 
                             onChange={handleChange}
@@ -102,7 +102,7 @@ const Contact = () => {
                     <div className="col-lg-6 mil-up">
                         <input 
                             type="email" 
-                            placeholder="Your Email"
+                            placeholder="Tu Email"
                             name="email"
                             required="required"
                             onChange={handleChange}
@@ -112,7 +112,7 @@ const Contact = () => {
                     </div>
                     <div className="col-lg-12 mil-up">
                         <textarea 
-                            placeholder="Tell us about our project"
+                            placeholder="Cuéntanos sobre tu consulta"
                             name="message" 
                             required="required"
                             onChange={handleChange}
@@ -121,12 +121,12 @@ const Contact = () => {
                         />
                     </div>
                     <div className="col-lg-8">
-                        <p className="mil-up mil-mb-30"><span className="mil-accent">*</span> We promise not to disclose your personal information to third parties.</p>
+                        <p className="mil-up mil-mb-30"><span className="mil-accent">*</span> Prometemos no divulgar tu información personal a terceros.</p>
                     </div>
                     <div className="col-lg-4">
                         <div className="mil-adaptive-right mil-up mil-mb-30">
                             <button type="submit" className="mil-button mil-arrow-place">
-                                <span>Send message</span>
+                                <span>Enviar mensaje</span>
                                 <ArrowIcon />
                             </button>
                         </div>

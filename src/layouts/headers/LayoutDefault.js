@@ -95,27 +95,22 @@ const DefaultHeader = ({ extraClass }) => {
                               <div className="row">
                                   <div className="col-lg-8 mil-mb-60">
 
-                                      <h6 className="mil-muted mil-mb-30">Projects</h6>
+                                      <h6 className="mil-muted mil-mb-30">Recursos</h6>
 
                                       <ul className="mil-menu-list">
-                                          <li><Link href="/projects/project-1" className="mil-light-soft">Interior design studio</Link></li>
-                                          <li><Link href="/projects/project-2" className="mil-light-soft">Home Security Camera</Link></li>
-                                          <li><Link href="/projects/project-3" className="mil-light-soft">Kemia Honest Skincare</Link></li>
-                                          <li><Link href="/projects/project-4" className="mil-light-soft">Cascade of Lava</Link></li>
-                                          <li><Link href="/projects/project-5" className="mil-light-soft">Air Pro by Molekule</Link></li>
-                                          <li><Link href="/projects/project-6" className="mil-light-soft">Tony's Chocolonely</Link></li>
+                                          <li><Link href="/code-of-conduct" className="mil-light-soft">Código de Conducta</Link></li>
+                                          <li><a href="https://dev.java/community/jugs/" target="_blank" className="mil-light-soft">JUGs del Mundo</a></li>
+                                          <li><a href="https://luma.com/user/jugbaq" target="_blank" className="mil-light-soft">Eventos en Luma</a></li>
                                       </ul>
 
                                   </div>
                                   <div className="col-lg-4 mil-mb-60">
 
-                                      <h6 className="mil-muted mil-mb-30">Useful links</h6>
+                                      <h6 className="mil-muted mil-mb-30">Enlaces útiles</h6>
 
                                       <ul className="mil-menu-list">
-                                          <li><a href="#." className="mil-light-soft">Privacy Policy</a></li>
-                                          <li><a href="#." className="mil-light-soft">Terms and conditions</a></li>
-                                          <li><a href="#." className="mil-light-soft">Cookie Policy</a></li>
-                                          <li><a href="#." className="mil-light-soft">Careers</a></li>
+                                          <li><Link href="/team" className="mil-light-soft">Equipo</Link></li>
+                                          <li><Link href="/contact" className="mil-light-soft">Contacto</Link></li>
                                       </ul>
 
                                   </div>

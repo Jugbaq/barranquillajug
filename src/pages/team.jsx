@@ -5,14 +5,14 @@ import CallToActionSection from "@components/sections/CallToAction";
 
 const TeamData = [
     {
-        "image": "/img/faces/1.jpg",
-        "name": "Anna Oldman",
-        "role": "Art Director",
+        "image": "/img/faces/customers/1.png",
+        "name": "Geovanny Mendoza",
+        "role": "Software Engineer",
         "social": [
             {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
+                "link": "https://www.linkedin.com/in/barranquillajug/",
+                "icon": "fab fa-linkedin",
+                "title": "LinkedIn"
             },
             {
                 "link": "https://dribbble.com/",
@@ -20,9 +20,9 @@ const TeamData = [
                 "title": "Dribbble"
             },
             {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
+                "link": "https://x.com/barranquillajug",
+                "icon": "fab fa-x-twitter",
+                "title": "X"
             },
             {
                 "link": "https://github.com/",
@@ -32,14 +32,14 @@ const TeamData = [
         ]
     },
     {
-        "image": "/img/faces/3.jpg",
-        "name": "Oscar Freeman",
-        "role": "Frontend Dev",
+        "image": "/img/faces/customers/2.png",
+        "name": "Ricardo Cantillo",
+        "role": "Software Engineer",
         "social": [
             {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
+                "link": "https://www.linkedin.com/in/barranquillajug/",
+                "icon": "fab fa-linkedin",
+                "title": "LinkedIn"
             },
             {
                 "link": "https://dribbble.com/",
@@ -47,9 +47,9 @@ const TeamData = [
                 "title": "Dribbble"
             },
             {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
+                "link": "https://x.com/barranquillajug",
+                "icon": "fab fa-x-twitter",
+                "title": "X"
             },
             {
                 "link": "https://github.com/",
@@ -59,14 +59,14 @@ const TeamData = [
         ]
     },
     {
-        "image": "/img/faces/2.jpg",
-        "name": "Emma Newman",
-        "role": "Founder",
+        "image": "/img/faces/customers/3.png",
+        "name": "Betzabe Salas",
+        "role": "Software Engineer",
         "social": [
             {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
+                "link": "https://www.linkedin.com/in/barranquillajug/",
+                "icon": "fab fa-linkedin",
+                "title": "LinkedIn"
             },
             {
                 "link": "https://dribbble.com/",
@@ -74,9 +74,9 @@ const TeamData = [
                 "title": "Dribbble"
             },
             {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
+                "link": "https://x.com/barranquillajug",
+                "icon": "fab fa-x-twitter",
+                "title": "X"
             },
             {
                 "link": "https://github.com/",
@@ -86,14 +86,14 @@ const TeamData = [
         ]
     },
     {
-        "image": "/img/faces/4.jpg",
+        "image": "/img/faces/customers/4.png",
         "name": "Lisa Trueman",
         "role": "UI/UX Designer",
         "social": [
             {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
+                "link": "https://www.linkedin.com/in/barranquillajug/",
+                "icon": "fab fa-linkedin",
+                "title": "LinkedIn"
             },
             {
                 "link": "https://dribbble.com/",
@@ -101,9 +101,9 @@ const TeamData = [
                 "title": "Dribbble"
             },
             {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
+                "link": "https://x.com/barranquillajug",
+                "icon": "fab fa-x-twitter",
+                "title": "X"
             },
             {
                 "link": "https://github.com/",
@@ -113,14 +113,14 @@ const TeamData = [
         ]
     },
     {
-        "image": "/img/faces/5.jpg",
+        "image": "/img/faces/customers/5.png",
         "name": "Tom Oldman",
-        "role": "Art Director",
+        "role": "Software Engineer",
         "social": [
             {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
+                "link": "https://www.linkedin.com/in/barranquillajug/",
+                "icon": "fab fa-linkedin",
+                "title": "LinkedIn"
             },
             {
                 "link": "https://dribbble.com/",
@@ -128,9 +128,9 @@ const TeamData = [
                 "title": "Dribbble"
             },
             {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
+                "link": "https://x.com/barranquillajug",
+                "icon": "fab fa-x-twitter",
+                "title": "X"
             },
             {
                 "link": "https://github.com/",
@@ -140,14 +140,14 @@ const TeamData = [
         ]
     },
     {
-        "image": "/img/faces/6.jpg",
+        "image": "/img/faces/customers/6.png",
         "name": "Corey Trueman",
         "role": "Technical Director",
         "social": [
             {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
+                "link": "https://www.linkedin.com/in/barranquillajug/",
+                "icon": "fab fa-linkedin",
+                "title": "LinkedIn"
             },
             {
                 "link": "https://dribbble.com/",
@@ -155,63 +155,9 @@ const TeamData = [
                 "title": "Dribbble"
             },
             {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
-    },
-    {
-        "image": "/img/faces/7.jpg",
-        "name": "Justin Newman",
-        "role": "Copywriter",
-        "social": [
-            {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
-    },
-    {
-        "image": "/img/faces/8.jpg",
-        "name": "Spunkie",
-        "role": "Paw giver",
-        "social": [
-            {
-                "link": "https://behance.net/",
-                "icon": "fab fa-behance",
-                "title": "Behance"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://twitter.com/",
-                "icon": "fab fa-twitter",
-                "title": "Twitter"
+                "link": "https://x.com/barranquillajug",
+                "icon": "fab fa-x-twitter",
+                "title": "X"
             },
             {
                 "link": "https://github.com/",
@@ -225,7 +171,7 @@ const TeamData = [
 const Team = () => {
   return (
     <Layouts>
-        <PageBanner pageTitle={"Meet <span className=\"mil-thin\">Our</span><br> Creative <span className=\"mil-thin\">Team</span>"} breadTitle={"Team"} anchorLabel={"Our team"} anchorLink={"#team"} />
+        <PageBanner pageTitle={"Nuestro <span className=\"mil-thin\">Equipo</span><br> de <span className=\"mil-thin\">Desarrollo</span>"} breadTitle={"Equipo"} anchorLabel={"Nuestro equipo"} anchorLink={"#team"} />
       
         {/* team */}
         <section id="team">

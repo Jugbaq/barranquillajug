@@ -44,6 +44,9 @@ const TestimonialSlider = () => {
                         {Data.items.map((item, key) => (
                         <SwiperSlide className="swiper-slide" key={`testimonial-slider-item-${key}`}>
                           <div className="mil-review-frame mil-center" data-swiper-parallax="-200" data-swiper-parallax-opacity="0">
+                              <div style={{width: "80px", height: "80px", borderRadius: "50%", overflow: "hidden", margin: "0 auto 20px"}}>
+                                <img src={item.image} alt={item.name} style={{width: "100%", height: "100%", objectFit: "cover"}} />
+                              </div>
                               <h5 className="mil-up mil-mb-10">{item.name}</h5>
                               <p className="mil-mb-5 mil-upper mil-up mil-mb-30">{item.role}</p>
                               <p className="mil-text-xl mil-up">{item.text}</p>

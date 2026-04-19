@@ -8,7 +8,10 @@ import HeroOneSection from "@components/sections/HeroOne"
 import AboutSection from "@components/sections/About";
 import ServicesSection from "@components/sections/Services";
 import TeamSection from "@components/sections/Team";
+import SponsorsSection from "@components/sections/Sponsors";
+import FaqSection from "@components/sections/Faq";
 import LatestPostsSection from "@components/sections/LatestPosts";
+import EventsSection from "@components/sections/Events"
 
 const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial"), { ssr: false } );
 const PartnersSlider = dynamic( () => import("@components/sliders/Partners"), { ssr: false } );
@@ -19,6 +22,9 @@ const Home1 = (props) => {
       <HeroOneSection />
       <AboutSection />
       <ServicesSection />
+        <FaqSection />
+        <EventsSection />
+      <SponsorsSection />
       <TeamSection />
       <TestimonialSlider />
       <PartnersSlider />

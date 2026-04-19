@@ -14,7 +14,8 @@ class MyDocument extends Document {
           <link rel="stylesheet" href="/css/plugins/bootstrap-grid.css" />
           <link rel="stylesheet" href="/css/plugins/font-awesome.min.css" />
           <link rel="stylesheet" href="/css/plugins/swiper.min.css" />
-          <link rel="stylesheet" href="/css/plugins/magnific-popup.css" />  
+          <link rel="stylesheet" href="/css/plugins/magnific-popup.css" />
+            <link rel="icon" href="/public/favicon.ico" />
           {/* public assets end */}
         </Head>
         <body>

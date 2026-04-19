@@ -28,8 +28,8 @@ const LatestPostsSection = ( { posts, layout, imageHorizontal } ) => {
                         <div className="col-lg-6" key={`blog-post-${key}`}>
 
                             <Link href={`/blog/${item.id}`} className="mil-blog-card mil-mb-60">
-                                <div className="mil-cover-frame mil-up">
-                                    <img src={item.image} alt={item.title} />
+                                <div className="mil-cover-frame mil-up" style={{height: "450px", overflow: "hidden", backgroundColor: "#ffffff"}}>
+                                    <img src={item.image} alt={item.title} style={{width: "100%", height: "100%", objectFit: "contain", objectPosition: "center"}} />
                                 </div>
                                 <div className="mil-post-descr">
                                     <div className="mil-labels mil-up mil-mb-30">
@@ -39,7 +39,7 @@ const LatestPostsSection = ( { posts, layout, imageHorizontal } ) => {
                                     <h4 className="mil-up mil-mb-30">{item.title}</h4>
                                     <p className="mil-post-text mil-up mil-mb-30">{item.short}</p>
                                     <div className="mil-link mil-dark mil-arrow-place mil-up">
-                                        <span>Read more</span>
+                                        <span>Leer más</span>
                                         <ArrowIcon />
                                     </div>
                                 </div>

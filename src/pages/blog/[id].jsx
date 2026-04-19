@@ -18,8 +18,8 @@ const PostsDetail = ( props ) => {
               <div className="row justify-content-center">
                   <div className="col-lg-12">
 
-                      <div className="mil-image-frame mil-horizontal mil-up">
-                          <img src={postData.image} alt={postData.title} className="mil-scale" data-value-1=".90" data-value-2="1.15" />
+                      <div className="mil-up" style={{ width: "100%", height: "500px", backgroundColor: "#ffffff", display: "flex", justifyContent: "center", borderRadius: "15px", overflow: "hidden", marginBottom: "40px" }}>
+                          <img src={postData.image} alt={postData.title} style={{ width: "100%", height: "100%", objectFit: "contain", padding: "15px" }} />
                       </div>
                       <div className="mil-info mil-up mil-mb-90">
                           <div>Category: &nbsp;<span className="mil-dark">{postData.category}</span></div>
