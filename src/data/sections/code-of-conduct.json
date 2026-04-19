@@ -1,0 +1,66 @@
+{
+    "title": "Código de <span class=\"mil-thin\">Conducta</span>",
+    "sections": [
+        {
+            "number": "1",
+            "title": "Propósito",
+            "content": "En el BAQJUG (Barranquilla Java Users Group), nos comprometemos a ofrecer un entorno inclusivo, respetuoso y seguro para todos los participantes, sin distinción de género, identidad u orientación sexual, discapacidad, apariencia física, raza, etnia, religión (o ausencia de ella), nacionalidad o nivel de experiencia. Este Código de Conducta establece nuestras expectativas de comportamiento y las consecuencias ante cualquier incumplimiento."
+        },
+        {
+            "number": "2",
+            "title": "Comportamiento esperado",
+            "content": "",
+            "list": [
+                "Participar con respeto, empatía y actitud constructiva.",
+                "Escuchar activamente y permitir la participación de todos.",
+                "Usar un lenguaje apropiado y profesional en todo momento.",
+                "Respetar los espacios, los tiempos y las ideas de los demás.",
+                "Contribuir a un ambiente colaborativo y seguro para todos."
+            ]
+        },
+        {
+            "number": "3",
+            "title": "Comportamiento inaceptable",
+            "content": "No se tolerarán conductas como:",
+            "list": [
+                "Comentarios ofensivos o discriminatorios relacionados con género, orientación sexual, raza, religión, discapacidad, apariencia o edad.",
+                "Uso de lenguaje o imágenes sexuales inapropiadas en cualquier contexto.",
+                "Intimidación, acecho, grabación sin consentimiento o contacto físico no deseado.",
+                "Interrupciones constantes, acoso verbal o visual, o atención sexual no solicitada.",
+                "Promoción de cualquier comportamiento abusivo."
+            ]
+        },
+        {
+            "number": "4",
+            "title": "Consecuencias ante el incumplimiento",
+            "content": "Los organizadores podrán tomar las acciones que consideren necesarias, tales como:",
+            "list": [
+                "Advertencias privadas.",
+                "Expulsión inmediata del evento sin reembolso.",
+                "Prohibición de participar en futuros eventos del BAQJUG.",
+                "Todas las medidas se aplicarán con base en el bienestar de la comunidad."
+            ]
+        },
+        {
+            "number": "5",
+            "title": "Reporte de incidentes",
+            "content": "Si eres testigo o víctima de una conducta inaceptable, puedes comunicarte con el equipo organizador de forma confidencial. El equipo está capacitado para ofrecer apoyo, intervenir en caso de ser necesario y/o ayudarte a contactar con las autoridades competentes.",
+            "contact": "barranquijava@gmail.com"
+        },
+        {
+            "number": "6",
+            "title": "Alcance",
+            "content": "Este Código de Conducta aplica en todos los espacios relacionados con el BAQJUG, incluyendo:",
+            "list": [
+                "Eventos presenciales (charlas, talleres, networking, etc.)",
+                "Canales virtuales (web, redes sociales, correo, plataformas de conferencias)",
+                "Comunicaciones uno a uno dentro del contexto del evento"
+            ]
+        },
+        {
+            "number": "7",
+            "title": "Licencia y uso",
+            "content": "Este Código de Conducta ha sido elaborado para atender las necesidades específicas de la comunidad técnica del BAQJUG. Se autoriza su reutilización, adaptación y difusión bajo los términos de la licencia Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0), siempre que se mantenga la debida atribución y se comparta bajo la misma licencia."
+        }
+    ]
+}

@@ -1,24 +1,24 @@
 {
-    "title": "Customer <span class=\"mil-thin\">Voices:</span> <br>Hear What <span class=\"mil-thin\">They Say!</span>",
-    "subtitle": "Customer reviews are a valuable source <br>of information for both businesses and consumers.",
+    "title": "Ellos hablan <span class=\"mil-thin\">de nosotros:</span> <br>Reseñas de <span class=\"mil-thin\">nuestra comunidad</span>",
+    "subtitle": "Un excelente espacio para aprender, compartir y crecer <br>como desarrollador dentro del ecosistema Java.",
     "items": [
         {
-            "name": "Paul Trueman",
-            "image": "/img/customers/1.jpg",
-            "role": "Eqanta app",
-            "text": "Working with Courtney Davis as our UI designer was an absolute pleasure. Her attention to detail and creative approach brought our vision to life. The user interface she designed exceeded our expectations, and we received positive feedback from our clients. Highly recommended!"
+            "name": "Vicente Suc",
+            "image": "/img/faces/customers/vicente.jpg",
+            "role": "Ingeniero en Sistemas · Co-Fundador de CSN",
+            "text": "El BAQJUG es una comunidad increíble que impulsa el crecimiento profesional de los desarrolladores Java en Barranquilla y toda la región. Un espacio donde el conocimiento se comparte con pasión y compromiso."
         },
         {
-            "name": "Olivia Oldman",
-            "image": "/img/customers/2.jpg",
-            "role": "Eqanta app",
-            "text": "I had the opportunity to collaborate with Courtney, and I must say she is incredibly talented. Her ability to understand our brand and translate it into a interface was impressive. Courtney's designs were intuitive, and enhanced the overall user experience. I look forward to working with her again!"
+            "name": "José Amadeo Martín Díaz",
+            "image": "/img/faces/customers/jose.png",
+            "role": "Java Champion · Líder PERU JUG · Duke's Choice Award 2017",
+            "text": "Un excelente grupo para aprender y compartir sobre Java. Las charlas son enriquecedoras y el ambiente es muy colaborativo. Los JUGs como el BAQJUG son fundamentales para el crecimiento de la comunidad Java en Latinoamérica."
         },
         {
-            "name": "Oscar Newman",
-            "image": "/img/customers/3.jpg",
-            "role": "Eqanta app",
-            "text": "Courtney Davis is an exceptional UI designer. She has a keen eye for aesthetics and understands how to create interfaces. Courtney's designs greatly improved the usability of our application, and we couldn't be happier with the results. Highly skilled and reliable!"
+            "name": "Aristides Villarreal",
+            "image": "/img/faces/customers/aristides.png",
+            "role": "Java Champion",
+            "text": "Un excelente grupo para aprender y compartir sobre Java. Las charlas son enriquecedoras y el ambiente es muy colaborativo. Definitivamente un espacio para crecer como desarrollador."
         }
     ]
 }

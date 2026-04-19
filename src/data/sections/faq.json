@@ -1,0 +1,30 @@
+{
+    "title": "Preguntas <br/><span class=\"mil-thin\">Frecuentes</span>",
+    "description": "En esta sección, puedes encontrar respuestas a algunas de las preguntas más frecuentes que tienen quienes por primera vez se enteran de nuestro grupo de usuarios Java. Si después de leer estas respuestas aún tienes preguntas, no dudes en contactarnos.",
+    "items": [
+        {
+            "question": "¿Qué es BAQJUG?",
+            "answer": "BAQ es el código de la ciudad Barranquilla, Colombia y JUG son las siglas de Java Users Group. Somos un grupo de entusiastas apasionados por la tecnología Java que buscan compartir su experiencia/conocimiento con los demás."
+        },
+        {
+            "question": "¿Cómo unirse al grupo?",
+            "answer": "Es sencillo, simplemente regístrate para una de nuestras próximas reuniones. Los formularios de registro se publican junto con los temas, fechas y lugar de la reunión, así que debes estar pendiente de nuestras actualizaciones. Tanto profesionales como estudiantes pueden unirse, tenemos contenido para ambos perfiles."
+        },
+        {
+            "question": "¿Tiene algún costo?",
+            "answer": "Generalmente no tiene costo asistir a nuestras reuniones mensuales. Sin embargo, es posible que realicemos eventos anuales que pueden tener un costo mínimo usado para cubrir los gastos de los mismos."
+        },
+        {
+            "question": "¿Cuándo y dónde son las reuniones?",
+            "answer": "Generalmente nos reunimos el cuarto sábado de cada mes a excepción de Diciembre y el lugar se confirma junto con los temas de la reunión. Si el cuarto sábado del mes coincide con puente festivo, entonces la reunión se haría el sábado anterior que no sea puente festivo. Las reuniones se programan por medio de nuestro sitio Web y cada una tiene un formulario de registro. Se espera que los asistentes realicen su reserva diligenciando el formulario y así nos ayudan a administrar de una mejor manera los recursos necesarios para cada reunión."
+        },
+        {
+            "question": "¿Es necesario asistir a todas las reuniones para ser miembro del grupo?",
+            "answer": "Claro que no! Cada miembro decide a cuáles reuniones asistir. Nuestras reuniones tienen contenido para diferentes perfiles y además, asistir a las reuniones no es la única forma de participar de nuestra comunidad."
+        },
+        {
+            "question": "¿Cómo puedo participar?",
+            "answer": "Puedes participar de muchas maneras. Las más básicas son hacer comentarios en nuestro sitio Web, en nuestras noticias, redes sociales o asistiendo a algunas de nuestras reuniones. En realidad existen muchas formas de participar de la comunidad Java: https://blogs.oracle.com/jcp/entry/101_to_participate"
+        }
+    ]
+}

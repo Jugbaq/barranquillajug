@@ -1,120 +1,100 @@
 {
-    "title": "Meet <br>Our Team",
-    "description": "<p>We are talented individuals who are passionate about bringing ideas to life. With a diverse range of backgrounds and skill sets, we collaborate to produce effective solutions for our clients.</p><p>Together, our creative team is committed to delivering impactful work that exceeds expectations.</p>",
-    "subtitle": "<span class=\"mil-thin\">We</span> delivering <br><span class=\"mil-thin\">exceptional</span> results.",
+    "title": "Nuestro <br>Equipo",
+    "description": "<p>El grupo Barranquilla Java está compuesto por un equipo de desarrolladores apasionados por la tecnología, comprometidos con compartir conocimientos y fomentar el aprendizaje colaborativo.</p><p>Nos dedicamos a organizar eventos, charlas y talleres que cubren diversos temas del ecosistema Java, desde lo básico hasta los últimos avances en tecnología.</p>",
+    "subtitle": "Conoce a nuestro <br><span class=\"mil-thin\">equipo de entusiastas</span><br> del desarrollo Java",
     "button": {
         "link": "/team",
-        "label": "Read more"
+        "label": "Ver equipo completo"
     },
-    "note": "<span class=\"mil-accent\">*</span> The founders of our agency",
+    "note": "<span class=\"mil-accent\">*</span> Organizadores del BarranquillaJUG",
     "col1_items": [
         {
-            "image": "/img/faces/1.jpg",
-            "name": "Anna Oldman",
-            "role": "Art Director",
+            "image": "/img/faces/customers/1.png",
+            "name": "Geovanny Mendoza",
+            "role": "Software Engineer",
             "social": [
                 {
-                    "icon": "fab fa-behance",
-                    "link": "https://behance.com",
-                    "title": "behance"
-                },
-                {
-                    "icon": "fab fa-dribbble",
-                    "link": "https://dribbble.com",
-                    "title": "dribbble"
-                },
-                {
-                    "icon": "fab fa-twitter",
-                    "link": "https://twitter.com",
-                    "title": "twitter"
+                    "icon": "fab fa-linkedin",
+                    "link": "https://www.linkedin.com/in/barranquillajug/",
+                    "title": "LinkedIn"
                 },
                 {
                     "icon": "fab fa-github",
                     "link": "https://github.com",
-                    "title": "github"
+                    "title": "GitHub"
+                },
+                {
+                    "icon": "fab fa-x-twitter",
+                    "link": "https://x.com/barranquillajug",
+                    "title": "X"
                 }
             ]
         },
         {
-            "image": "/img/faces/3.jpg",
-            "name": "Oscar Freeman",
-            "role": "Frontend Dev",
+            "image": "/img/faces/customers/2.png",
+            "name": "Ricardo Cantillo",
+            "role": "Software Engineer",
             "social": [
                 {
-                    "icon": "fab fa-behance",
-                    "link": "https://behance.com",
-                    "title": "behance"
-                },
-                {
-                    "icon": "fab fa-dribbble",
-                    "link": "https://dribbble.com",
-                    "title": "dribbble"
-                },
-                {
-                    "icon": "fab fa-twitter",
-                    "link": "https://twitter.com",
-                    "title": "twitter"
+                    "icon": "fab fa-linkedin",
+                    "link": "https://www.linkedin.com/in/barranquillajug/",
+                    "title": "LinkedIn"
                 },
                 {
                     "icon": "fab fa-github",
                     "link": "https://github.com",
-                    "title": "github"
+                    "title": "GitHub"
+                },
+                {
+                    "icon": "fab fa-x-twitter",
+                    "link": "https://x.com/barranquillajug",
+                    "title": "X"
                 }
             ]
         }
     ],
     "col2_items": [
         {
-            "image": "/img/faces/2.jpg",
-            "name": "Emma Newman",
-            "role": "Founder",
+            "image": "/img/faces/customers/3.png",
+            "name": "Miembro 4",
+            "role": "Software Engineer",
             "social": [
                 {
-                    "icon": "fab fa-behance",
-                    "link": "https://behance.com",
-                    "title": "behance"
-                },
-                {
-                    "icon": "fab fa-dribbble",
-                    "link": "https://dribbble.com",
-                    "title": "dribbble"
-                },
-                {
-                    "icon": "fab fa-twitter",
-                    "link": "https://twitter.com",
-                    "title": "twitter"
+                    "icon": "fab fa-linkedin",
+                    "link": "https://www.linkedin.com/in/barranquillajug/",
+                    "title": "LinkedIn"
                 },
                 {
                     "icon": "fab fa-github",
                     "link": "https://github.com",
-                    "title": "github"
+                    "title": "GitHub"
+                },
+                {
+                    "icon": "fab fa-x-twitter",
+                    "link": "https://x.com/barranquillajug",
+                    "title": "X"
                 }
             ]
         },
         {
-            "image": "/img/faces/4.jpg",
-            "name": "Lisa Trueman",
-            "role": "UI/UX Designer",
+            "image": "/img/faces/customers/5.png",
+            "name": "Miembro 5",
+            "role": "Software Engineer",
             "social": [
                 {
-                    "icon": "fab fa-behance",
-                    "link": "https://behance.com",
-                    "title": "behance"
-                },
-                {
-                    "icon": "fab fa-dribbble",
-                    "link": "https://dribbble.com",
-                    "title": "dribbble"
-                },
-                {
-                    "icon": "fab fa-twitter",
-                    "link": "https://twitter.com",
-                    "title": "twitter"
+                    "icon": "fab fa-linkedin",
+                    "link": "https://www.linkedin.com/in/barranquillajug/",
+                    "title": "LinkedIn"
                 },
                 {
                     "icon": "fab fa-github",
                     "link": "https://github.com",
-                    "title": "github"
+                    "title": "GitHub"
+                },
+                {
+                    "icon": "fab fa-x-twitter",
+                    "link": "https://x.com/barranquillajug",
+                    "title": "X"
                 }
             ]
         }

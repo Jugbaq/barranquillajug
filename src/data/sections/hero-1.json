@@ -1,12 +1,12 @@
 {
-    "title": "Designing <span class=\"mil-thin\">a Better</span><br> World <span class=\"mil-thin\">Today</span>",
-    "description": "Welcome to our world of endless imagination and boundless creativity. Together, let's embark on a remarkable journey where dreams become tangible realities.",
+    "title": "Bienvenidos al <span class=\"mil-thin\">BAQJUG</span><br> Barranquilla <span class=\"mil-thin\">Java</span><br> Users Group",
+    "description": "Somos un grupo de entusiastas de la Plataforma Java, enfocados en promover el conocimiento Java en el presente y futuras generaciones de programadores. A través de nuestros foros y reuniones periódicas pretendemos mantenernos en contacto con los últimos desarrollos de la industria, aprender nuevas tecnologías de Java (JVM y otros), conocer a otros desarrolladores, discutir temas técnicos y no técnicos en toda la Comunidad Java.",
     "button1": {
-        "link": "/services",
-        "label": "What we do"
+        "link": "/events",
+        "label": "Ver eventos"
     },
     "button2": {
-        "link": "/projects",
-        "label": "View works"
+        "link": "/contact",
+        "label": "Contáctanos"
     }
 }

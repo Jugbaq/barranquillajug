@@ -1,13 +1,13 @@
 {
     "image": {
-        "url": "/img/photo/1.jpg",
-        "alt": "img"
+        "url": "/img/photo/1.png",
+        "alt": "BarranquillaJUG"
     },
     "avatar": {
-        "image": "/img/faces/customers/2.jpg",
-        "alt": "Founder"
+        "image": "/img/faces/customers/1.png",
+        "alt": "Miembro JUG"
     },
-    "title": "Discover <br/>Our <span class=\"mil-thin\">Studio</span>",
-    "description": "<p>At our design studio, we are a collective of talented individuals ignited by our unwavering passion for transforming ideas into reality. With a harmonious blend of diverse backgrounds and a vast array of skill sets, we join forces to create compelling solutions for our esteemed clients.</p><p>Collaboration is at the heart of what we do. Our team thrives on the synergy that arises when unique perspectives converge, fostering an environment of boundless creativity. By harnessing our collective expertise, we produce extraordinary results that consistently surpass expectations.</p>",
-    "subtitle": "Passionately Creating <span class=\"mil-thin\">Design Wonders:</span> Unleashing <span class=\"mil-thin\">Boundless Creativity</span>"
+    "title": "Acerca de <span class=\"mil-thin\">BAQJUG</span>",
+    "description": "<p>Te gusta la tecnología Java y vives en Barranquilla, Colombia? Entonces únete al Java Users Group (JUG) Barranquilla – BAQJUG. Dónde vas a conocer otras personas apasionadas por el lenguaje Java, tendrás nuevos amigos y contactos profesionales.</p><p>Organizado por y para Desarrolladores de la tecnología Java. En nuestras reuniones mensuales contaremos con presentaciones técnicas de diversos temas relacionados con el ecosistema de Java. Dichas presentaciones son llevadas a cabo por miembros de la comunidad BAQJUG que cuentan con experiencia en los temas y sienten el deseo de compartir su conocimiento con los demás.</p><p>Tanto estudiantes como profesionales todos son bienvenidos a participar de esta iniciativa que busca:</p><ul><li>Aumentar la difusión y adopción de la tecnología Java</li><li>Impulsar la tecnología Java y promover su crecimiento y el de la comunidad a través de la educación y el desarrollo</li><li>Incentivar el uso de la tecnología Java por medio de presentaciones, documentación, laboratorios, eventos y talleres de diferente temas básicos, avanzados</li><li>Interactuar con otras comunidades que hacen parte del ecosistema de Java, como por ejemplo otros grupos de usuarios Java de otro país u otra ciudad de Colombia</li><li>Participar de iniciativas internacionales para que podamos aportar al futuro de Java, como por ejemplo las iniciativas Adopt a JSR, Adopt OpenJDK, etc.</li></ul><p>Te esperamos para que hagas parte de nuestra comunidad.</p>",
+    "subtitle": "Somos un grupo de entusiastas de la Plataforma Java, enfocados en promover el conocimiento Java en el presente y futuras generaciones de programadores."
 }

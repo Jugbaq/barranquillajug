@@ -1,8 +1,8 @@
 {
-    "title": "Popular Publications:",
+    "title": "Últimos Eventos:",
     "button": {
-        "link": "/blog",
-        "button": "View all"
+        "link": "/events",
+        "label": "Ver todos"
     },
     "numOfItems": 2
 }

@@ -1,8 +1,8 @@
 {
-    "subtitle": "Looking to make your mark? We'll help you turn <br> your project into a success story.",
-    "title": "Ready to bring your <span class=\"mil-thin\">ideas to</span> life? <br> We're <span class=\"mil-thin\">here to help</span>",
+    "subtitle": "¿Te apasiona Java y quieres conectar con otros desarrolladores <br> en Barranquilla? Únete a nuestra comunidad.",
+    "title": "¿Listo para ser parte <span class=\"mil-thin\">del BAQJUG?</span> <br> Te <span class=\"mil-thin\">esperamos</span>",
     "button": {
-        "label": "Contact us",
+        "label": "Contáctanos",
         "link": "/contact"
     }
 }

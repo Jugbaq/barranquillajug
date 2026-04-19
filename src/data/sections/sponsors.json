@@ -1,0 +1,78 @@
+{
+    "supported_by": {
+        "title": "Apoyados Por",
+        "description": "Agradecemos el respaldo de organizaciones que impulsan el conocimiento en tecnologías JVM, buenas prácticas de arquitectura, herramientas modernas y experiencias reales compartidas por expertos del sector.",
+        "items": [
+            {
+                "name": "DEVJVM",
+                "logo": "/img/partners/devjvm.png",
+                "link": "https://devjvm.com"
+            },
+            {
+                "name": "JetBrains",
+                "logo": "/img/partners/jetbrains.png",
+                "link": "https://www.jetbrains.com"
+            }
+        ]
+    },
+    "allies": {
+        "title": "Aliados",
+        "description": "Agradecemos el respaldo de comunidades y empresas que promueven el conocimiento en tecnologías JVM, buenas prácticas de desarrollo y experiencias reales compartidas por expertos del sector.",
+        "subtitle": "Gracias a su apoyo, fortalecemos un ecosistema colaborativo e innovador en Barranquilla y la región Caribe.",
+        "items": [
+            {
+                "name": "CaribeDev",
+                "logo": "/img/partners/caribedev.png",
+                "link": "https://caribedev.com"
+            },
+            {
+                "name": "Pragma",
+                "logo": "/img/partners/pragma.png",
+                "link": "https://pragma.com.co"
+            },
+            {
+                "name": "Data",
+                "logo": "/img/partners/data.png",
+                "link": "https://data.com"
+            },
+            {
+                "name": "Giniem",
+                "logo": "/img/partners/giniem.png",
+                "link": "https://giniem.com"
+            }
+        ]
+    },
+    "content_partners": {
+        "title": "Content Partners",
+        "description": "Agradecemos a nuestros Content Partners por aportar valiosos recursos de aprendizaje, libros impresos, eBooks y material formativo, que enriquecen los contenidos de nuestra comunidad y apoyan el desarrollo profesional.",
+        "items": [
+            {
+                "name": "Packt Publishing",
+                "logo": "/img/partners/packt.png",
+                "link": "https://www.packtpub.com"
+            }
+        ]
+    },
+    "sponsors": {
+        "title": "Patrocinadores",
+        "description": "Agradecemos a nuestros Patrocinadores por hacer posible nuestros eventos con su apoyo financiero y estratégico.",
+        "subtitle": "Su respaldo impulsa la presencia de speakers, la innovación y el crecimiento profesional de la comunidad JVM en Barranquilla.",
+        "items": [
+            {
+                "name": "Tech Centre",
+                "logo": "/img/partners/techcentre.png",
+                "link": "https://techcentre.com"
+            },
+            {
+                "name": "Mov Digital",
+                "logo": "/img/partners/movdigital.png",
+                "link": "https://movdigital.com"
+            },
+            {
+                "name": "CSN",
+                "logo": "/img/partners/csn.png",
+                "link": "https://csn.com"
+            }
+        ]
+    }
+}

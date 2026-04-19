@@ -1,0 +1,33 @@
+{
+    "title": "Nuestros <span class=\"mil-thin\">Eventos</span>",
+    "description": "Participa en nuestros eventos mensuales donde compartimos conocimiento sobre Java y tecnologías relacionadas. Contamos con eventos presenciales y virtuales.",
+    "events": [
+        {
+            "month": "Enero 2025",
+            "title": "Introducción a Spring Boot 3",
+            "description": "Aprende las nuevas características de Spring Boot 3 y cómo migrar tus proyectos existentes.",
+            "date": "Sábado 25 de Enero, 2025",
+            "platform_link": "https://luma.com/user/jugbaq",
+            "youtube_link": "https://www.youtube.com/@BarranquillaJUG",
+            "type": "presencial"
+        },
+        {
+            "month": "Febrero 2025",
+            "title": "Java 21: Novedades y Mejoras",
+            "description": "Descubre las nuevas características de Java 21 incluyendo Virtual Threads, Pattern Matching y más.",
+            "date": "Sábado 22 de Febrero, 2025",
+            "platform_link": "https://luma.com/user/jugbaq",
+            "youtube_link": "https://www.youtube.com/@BarranquillaJUG",
+            "type": "virtual"
+        },
+        {
+            "month": "Marzo 2025",
+            "title": "Microservicios con Quarkus",
+            "description": "Construye microservicios de alto rendimiento con Quarkus y Kubernetes.",
+            "date": "Sábado 22 de Marzo, 2025",
+            "platform_link": "https://luma.com/user/jugbaq",
+            "youtube_link": "https://www.youtube.com/@BarranquillaJUG",
+            "type": "presencial"
+        }
+    ]
+}

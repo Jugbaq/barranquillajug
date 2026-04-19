@@ -1,6 +1,6 @@
 {
     "settings": {
-        "siteName": "Ashley",
+        "siteName": "BarranquillaJUG",
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "mailchimp": {
             "url": "",
@@ -9,143 +9,100 @@
     },
     "header": {
         "logo": {
-            "symbol": "A.",
+            "symbol": "JUG.",
             "link": "/"
         },
         "menu": [
             {
-                "label": "Homepage",
+                "label": "Inicio",
                 "link": "/",
-                "children": [
-                    {
-                        "label": "Landing Page",
-                        "link": "/"
-                    },
-                    {
-                        "label": "Personal",
-                        "link": "/home-2"
-                    },
-                    {
-                        "label": "Home Slider",
-                        "link": "/projects-3"
-                    }
-                ]
-            },
-            {
-                "label": "Portfolio",
-                "link": "/projects",
-                "children": [
-                    {
-                        "label": "Grid Type 1",
-                        "link": "/projects"
-                    },
-                    {
-                        "label": "Grid Type 2",
-                        "link": "/projects-2"
-                    },
-                    {
-                        "label": "Slider",
-                        "link": "/projects-3"
-                    }
-                ]
-            },
-            {
-                "label": "Services",
-                "link": "/services",
-                "children": [
-                    {
-                        "label": "Services List",
-                        "link": "/services"
-                    },
-                    {
-                        "label": "Single Service",
-                        "link": "/services/service-1"
-                    }
-                ]
-            },
-            {
-                "label": "Blog",
-                "link": "/blog",
-                "children": [
-                    {
-                        "label": "Blog list",
-                        "link": "/blog"
-                    },
-                    {
-                        "label": "Publication",
-                        "link": "/blog/play-to-your-strength-and-supercharge-your-business-4"
-                    }
-                ]
-            },
-            {
-                "label": "Contact",
-                "link": "/contact",
                 "children": 0
             },
             {
-                "label": "Other",
+                "label": "Eventos",
+                "link": "/events",
+                "children": 0
+            },
+            {
+                "label": "Equipo",
                 "link": "/team",
-                "children": [
-                    {
-                        "label": "Team",
-                        "link": "/team"
-                    },
-                    {
-                        "label": "404",
-                        "link": "/404"
-                    }
-                ]
+                "children": 0
+            },
+            {
+                "label": "Patrocinadores",
+                "link": "/sponsors",
+                "children": 0
+            },
+            {
+                "label": "FAQ",
+                "link": "/faq",
+                "children": 0
+            },
+            {
+                "label": "Contacto",
+                "link": "/contact",
+                "children": 0
             }
         ]
     },
     "footer": {
         "logo": {
-            "text": "Ashley."
+            "text": "BarranquillaJUG."
         },
-        "copy": "© 2023 Ashley. All Rights Reserved.",
+        "copy": "© 2026 Barranquilla Java Users Group. Todos los derechos reservados.",
         "menu": [
             {
-                "label": "Home",
+                "label": "Inicio",
                 "link": "/"
             },
             {
-                "label": "Portfolio",
-                "link": "/projects"
+                "label": "Eventos",
+                "link": "/events"
             },
             {
-                "label": "Services",
-                "link": "/services"
+                "label": "Equipo",
+                "link": "/team"
             },
             {
-                "label": "Contact",
+                "label": "Patrocinadores",
+                "link": "/sponsors"
+            },
+            {
+                "label": "Contacto",
                 "link": "/contact"
-            },
-            {
-                "label": "Blog",
-                "link": "/blog"
             }
         ]
     },
     "social": [
         {
-            "link": "https://behance.net",
-            "icon": "fab fa-behance",
-            "title": "Behance"
+            "link": "https://www.linkedin.com/in/barranquillajug/",
+            "icon": "fab fa-linkedin",
+            "title": "LinkedIn"
         },
         {
-            "link": "https://dribbble.com",
-            "icon": "fab fa-dribbble",
-            "title": "Dribbble"
+            "link": "https://x.com/barranquillajug",
+            "icon": "fab fa-x-twitter",
+            "title": "X (Twitter)"
         },
         {
-            "link": "https://twitter.com",
-            "icon": "fab fa-twitter",
-            "title": "Twitter"
+            "link": "https://www.facebook.com/barranquillajug",
+            "icon": "fab fa-facebook",
+            "title": "Facebook"
         },
         {
-            "link": "https://github.com",
-            "icon": "fab fa-github",
-            "title": "Github"
+            "link": "https://www.youtube.com/@BarranquillaJUG",
+            "icon": "fab fa-youtube",
+            "title": "YouTube"
+        },
+        {
+            "link": "https://www.instagram.com/barranquillajug",
+            "icon": "fab fa-instagram",
+            "title": "Instagram"
+        },
+        {
+            "link": "https://devjvm.com/",
+            "icon": "fas fa-globe",
+            "title": "Sitio Web"
         }
     ]
 }

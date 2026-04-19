@@ -1,31 +1,31 @@
 {
-    "title1": "Unique <span class=\"mil-thin\">Ideas</span>",
-    "title2": "For Your <span class=\"mil-thin\">Business.</span>",
-    "subtitle": "Professionals focused on helping your brand<br/> grow and move forward.",
+    "title1": "Qué <span class=\"mil-thin\">Hacemos?</span>",
+    "title2": "Impulsando la <span class=\"mil-thin\">Comunidad Java</span>",
+    "subtitle": "Desde 2016 promoviendo el conocimiento y la innovación<br/> en el ecosistema Java.",
     "button": {
-        "link": "/services",
-        "label": "What we do"
+        "link": "/#",
+        "label": "Ver eventos"
     },
     "items": [
         {
-            "title": "Branding and <br>Identity Design",
-            "text": "Our creative agency is a team of professionals focused on helping your brand grow.",
-            "link": "/services/service-1"
+            "title": "Charlas <br>Presenciales",
+            "text": "Organizamos charlas y talleres presenciales en Barranquilla, donde expertos comparten conocimientos sobre las últimas tendencias en Java y tecnologías relacionadas.",
+            "link": "/#"
         },
         {
-            "title": "Website Design <br>and Development",
-            "text": "Our creative agency is a team of professionals focused on helping your brand grow.",
-            "link": "/services/service-2"
+            "title": "Charlas <br>Virtuales",
+            "text": "Accede a nuestras charlas técnicas y eventos virtuales a través de nuestro canal de YouTube. Exploramos temas avanzados de desarrollo en Java.",
+            "link": "https://www.youtube.com/@BarranquillaJUG"
         },
         {
-            "title": "Advertising and <br>Marketing Campaigns",
-            "text": "Our creative agency is a team of professionals focused on helping your brand grow.",
-            "link": "/services/service-3"
+            "title": "Participación en <br>Eventos",
+            "text": "Participamos activamente en conferencias y eventos tecnológicos nacionales e internacionales, representando a la comunidad de Barranquilla.",
+            "link": "/#"
         },
         {
-            "title": "Creative Consulting <br>and Development",
-            "text": "Our creative agency is a team of professionals focused on helping your brand grow.",
-            "link": "/services/service-4"
+            "title": "Actividades del <br>Grupo",
+            "text": "Fomentamos la colaboración entre desarrolladores mediante meetups, hackathons y proyectos comunitarios que fortalecen el ecosistema Java en la región.",
+            "link": "/#"
         }
     ]
 }
