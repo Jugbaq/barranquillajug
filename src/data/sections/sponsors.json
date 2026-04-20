@@ -72,6 +72,11 @@
                 "name": "CSN",
                 "logo": "/img/partners/csn.png",
                 "link": "https://csn.com"
+            },
+            {
+                "name": "Hackatón Barranqui-IA",
+                "logo": "/img/partners/barranqui-ia.png",
+                "link": "https://www.caribe-ia.com/barranqui-ia/2026"
             }
         ]
     }
