@@ -3,31 +3,52 @@
     "description": "Participa en nuestros eventos mensuales donde compartimos conocimiento sobre Java y tecnologías relacionadas. Contamos con eventos presenciales y virtuales.",
     "events": [
         {
-            "month": "Enero 2025",
-            "title": "Introducción a Spring Boot 3",
-            "description": "Aprende las nuevas características de Spring Boot 3 y cómo migrar tus proyectos existentes.",
-            "date": "Sábado 25 de Enero, 2025",
-            "platform_link": "https://luma.com/user/jugbaq",
-            "youtube_link": "https://www.youtube.com/@BarranquillaJUG",
+            "month": "Abril 2026",
+            "title": "MCP con Java: La IA con Super Poderes",
+            "description": "Descubre el Model Context Protocol aplicado al ecosistema Java. Aprende cómo conectar LLMs con bases de datos y APIs usando Spring AI para crear agentes autónomos, potentes y escalables sobre la JVM.",
+            "date": "Sábado 25 de Abril, 2026 - 8:30 AM | IDITEK, Cra. 53 #53-105, Nte. Centro Histórico",
+            "platform_link": "https://luma.com/3xz2tj6s",
             "type": "presencial"
         },
         {
-            "month": "Febrero 2025",
-            "title": "Java 21: Novedades y Mejoras",
-            "description": "Descubre las nuevas características de Java 21 incluyendo Virtual Threads, Pattern Matching y más.",
-            "date": "Sábado 22 de Febrero, 2025",
-            "platform_link": "https://luma.com/user/jugbaq",
-            "youtube_link": "https://www.youtube.com/@BarranquillaJUG",
+            "month": "Abril 2026",
+            "title": "IA & SDLC: La Nueva Era",
+            "description": "Descubre cómo la IA está redefiniendo los perfiles de TI en todo el ciclo de vida del software.",
+            "date": "Sábado 25 de Abril, 2026 - 8:30 AM | IDITEK, Cra. 53 #53-105, Nte. Centro Histórico",
+            "platform_link": "https://luma.com/3xz2tj6s",
+            "type": "presencial"
+        },
+        {
+            "month": "Abril 2026",
+            "title": "Arquitectura Hexagonal en Código",
+            "description": "Implementación práctica y determinista para garantizar desacoplamiento, alta cohesión y testeabilidad total por diseño.",
+            "date": "Martes 28 de Abril, 2026 - 1:00 PM GMT-5",
+            "youtube_link": "https://www.youtube.com/watch?v=cMAM1rUulVM",
             "type": "virtual"
         },
         {
-            "month": "Marzo 2025",
-            "title": "Microservicios con Quarkus",
-            "description": "Construye microservicios de alto rendimiento con Quarkus y Kubernetes.",
-            "date": "Sábado 22 de Marzo, 2025",
-            "platform_link": "https://luma.com/user/jugbaq",
+            "month": "Marzo 2026",
+            "title": "UX para Devs",
+            "description": "¿Por qué un buen backend no es suficiente? Aprende cómo las validaciones y errores en el código afectan directamente al usuario final.",
+            "date": "Sábado 21 de Marzo, 2026 - 9:00 AM | Unicorsalud, Cra. 53 # 59-70, El Prado",
             "youtube_link": "https://www.youtube.com/@BarranquillaJUG",
             "type": "presencial"
+        },
+        {
+            "month": "Marzo 2026",
+            "title": "IA y Clean Code: Construyendo el perfil del ingeniero 2026",
+            "description": "Cómo usar IA como asistente para mejorar bases sólidas de Clean Code y mejorar la lógica de programación.",
+            "date": "Sábado 21 de Marzo, 2026 - 9:00 AM | Unicorsalud, Cra. 53 # 59-70, El Prado",
+            "youtube_link": "https://www.youtube.com/@BarranquillaJUG",
+            "type": "presencial"
+        },
+        {
+            "month": "Marzo 2026",
+            "title": "Quarkus & Kafka in Action",
+            "description": "Arquitectura EDA de forma reactiva con Quarkus, Kafka y Mutiny para construir sistemas orientados a eventos modernos y escalables.",
+            "date": "Sábado 28 de Marzo, 2026 - 7:00 PM GMT-5",
+            "youtube_link": "https://www.youtube.com/watch?v=pkNK-GY7FEk&t=52s",
+            "type": "virtual"
         }
     ]
 }

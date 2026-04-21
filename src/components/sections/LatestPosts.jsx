@@ -27,7 +27,7 @@ const LatestPostsSection = ( { posts, layout, imageHorizontal } ) => {
                         {posts.slice(0, Data.numOfItems).map((item, key) => (
                         <div className="col-lg-6" key={`blog-post-${key}`}>
 
-                            <Link href={`/blog/${item.id}`} className="mil-blog-card mil-mb-60">
+                            <Link href={`/eventos/${item.id}`} className="mil-blog-card mil-mb-60">
                                 <div className="mil-cover-frame mil-up" style={{height: "450px", overflow: "hidden", backgroundColor: "#ffffff"}}>
                                     <img src={item.image} alt={item.title} style={{width: "100%", height: "100%", objectFit: "contain", objectPosition: "center"}} />
                                 </div>

@@ -2,7 +2,7 @@
     "title": "Últimos Eventos:",
     "button": {
         "link": "/events",
-        "label": "Ver todos"
+        "label": "Ver todos los eventos"
     },
     "numOfItems": 2
 }

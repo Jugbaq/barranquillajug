@@ -1,12 +1,12 @@
 {
-    "title": "Popular Publications:",
+    "title": "Eventos destacados:",
     "featured": [
-        "5-steps-to-create-marketing-plan-4",
-        "5-steps-to-create-marketing-plan"
+        "evento-baqjug-abril-2026",
+        "evento-baqjug-virtual-abril-2026"
     ],
     "button": {
-        "link": "/blog/code",
-        "label": "View all"
+        "link": "/events",
+        "label": "Ver todos"
     },
     "numOfItems": 2
 }
