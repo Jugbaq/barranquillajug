@@ -25,7 +25,7 @@ const RelatedPostsSection = ( Content ) => {
                         {Content.items.slice(0, Data.numOfItems).map((item, key) => (
                         <div className="col-lg-6" key={`related-posts-item-${key}`}>
 
-                            <Link href={`/blog/${item.id}`} className="mil-blog-card mil-mb-60">
+                            <Link href={`/eventos/${item.id}`} className="mil-blog-card mil-mb-60">
                                 <div className="mil-cover-frame mil-up">
                                     <img src={item.image} alt={item.title} />
                                 </div>
@@ -37,7 +37,7 @@ const RelatedPostsSection = ( Content ) => {
                                     <h4 className="mil-up mil-mb-30">{item.title}</h4>
                                     <p className="mil-post-text mil-up mil-mb-30">{item.short}</p>
                                     <div className="mil-link mil-dark mil-arrow-place mil-up">
-                                        <span>Read more</span>
+                                        <span>Leer más</span>
                                     </div>
                                 </div>
                             </Link>

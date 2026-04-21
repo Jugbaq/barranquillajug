@@ -22,18 +22,19 @@ const SponsorGroup = ({ title, description, subtitle, items, groupKey }) => (
               display: "flex",
               alignItems: "center",
               justifyContent: "center",
-              minHeight: "130px",
-              padding: "28px 20px",
+              height: "130px",
+              padding: "20px 24px",
               borderRadius: "6px",
-              background: "#ffffff",
+              background: item.darkBg ? "#1e1e2e" : "#ffffff",
               transition: "box-shadow 0.3s",
-              textDecoration: "none"
+              textDecoration: "none",
+              overflow: "hidden"
             }}
           >
             <img
               src={item.logo}
               alt={item.name}
-              style={{maxWidth: "180px", maxHeight: "90px", width: "100%", objectFit: "contain"}}
+              style={{maxWidth: "160px", maxHeight: "80px", width: "auto", height: "auto", objectFit: "contain"}}
             />
           </a>
           <p className="mil-light-soft mil-up" style={{marginTop: "10px", fontSize: "11px", textAlign: "center", textTransform: "uppercase", letterSpacing: "1px"}}>{item.name}</p>
