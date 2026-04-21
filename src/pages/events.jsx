@@ -37,13 +37,15 @@ const Events = () => {
                       {event.date}
                     </p>
                     <div style={{display: "flex", gap: "15px", flexWrap: "wrap"}}>
-                      <a href={event.platform_link} target="_blank" className="mil-btn mil-sm mil-btn-border">
-                        <span>Registrarse</span>
-                      </a>
+                      {event.platform_link && (
+                        <a href={event.platform_link} target="_blank" className="mil-button mil-arrow-place mil-up" style={{fontSize: "12px", padding: "10px 22px"}}>
+                          <span>Registrarse</span>
+                        </a>
+                      )}
                       {event.youtube_link && (
-                        <a href={event.youtube_link} target="_blank" className="mil-btn mil-sm mil-btn-border">
-                          <i className="fab fa-youtube" style={{marginRight: "8px"}}></i>
-                          <span>Ver en YouTube</span>
+                        <a href={event.youtube_link} target="_blank" style={{display: "inline-flex", alignItems: "center", gap: "8px", fontSize: "12px", padding: "10px 22px", border: "solid 1px rgba(0,0,0,0.2)", borderRadius: "2px", textDecoration: "none", letterSpacing: "1px", textTransform: "uppercase"}}>
+                          <i className="fab fa-youtube" style={{color: "#ff0000"}}></i>
+                          <span>YouTube</span>
                         </a>
                       )}
                     </div>

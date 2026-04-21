@@ -15,14 +15,14 @@ const Blog = ( { posts, currentPage, totalPosts, categories } ) => {
 
   return (
     <Layouts>
-      <PageBanner pageTitle={"Exploring <span className=\"mil-thin\">the World</span> <br> Through Our <span className=\"mil-thin\">Blog</span>"} breadTitle={"Blog"} anchorLabel={"Publications"} anchorLink={"#blog"} paddingBottom={1} />
+      <PageBanner pageTitle={"Explora <span className=\"mil-thin\">nuestros</span> <br> Eventos <span className=\"mil-thin\">y Publicaciones</span>"} breadTitle={"Eventos"} anchorLabel={"Publicaciones"} anchorLink={"#blog"} paddingBottom={1} />
 
       {/* blog */}
       <section> 
         <div className="container mil-p-120-120">
           <div className="row align-items-center mil-mb-30">
               <div className="col-lg-4 mil-mb-30">
-                  <h3 className="mil-up">Categories:</h3>
+                  <h3 className="mil-up">Categorías:</h3>
               </div>
               <div className="col-lg-8 mil-mb-30">
                   <div className="mil-adaptive-right mil-up">
@@ -31,7 +31,7 @@ const Blog = ( { posts, currentPage, totalPosts, categories } ) => {
                           {categories.map((item, key) => (
                           <li key={`categories-item-${key}`}><Link href={`/blog/category/${item.id}`}>{item.title}</Link></li>
                           ))}
-                          <li><Link href="/blog" className="mil-active">All categories</Link></li>
+                          <li><Link href="/blog" className="mil-active">Todas</Link></li>
                       </ul>
                   </div>
               </div>

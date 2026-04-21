@@ -10,22 +10,22 @@ const TeamData = [
         "role": "Software Engineer",
         "social": [
             {
-                "link": "https://www.linkedin.com/in/barranquillajug/",
+                "link": "https://www.linkedin.com/in/geovannycode/",
                 "icon": "fab fa-linkedin",
                 "title": "LinkedIn"
             },
             {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
+                "link": "https://geovannycode.com/",
+                "icon": "fas fa-globe",
                 "title": "Dribbble"
             },
             {
-                "link": "https://x.com/barranquillajug",
-                "icon": "fab fa-x-twitter",
+                "link": "https://x.com/geovannycode",
+                "icon": "fab fa-twitter",
                 "title": "X"
             },
             {
-                "link": "https://github.com/",
+                "link": "https://github.com/geovannymcode",
                 "icon": "fab fa-github",
                 "title": "Github"
             }
@@ -36,50 +36,26 @@ const TeamData = [
         "name": "Ricardo Cantillo",
         "role": "Software Engineer",
         "social": [
-            {
-                "link": "https://www.linkedin.com/in/barranquillajug/",
-                "icon": "fab fa-linkedin",
-                "title": "LinkedIn"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://x.com/barranquillajug",
-                "icon": "fab fa-x-twitter",
-                "title": "X"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
+
         ]
     },
     {
         "image": "/img/faces/customers/3.png",
-        "name": "Betzabe Salas",
-        "role": "Software Engineer",
+        "name": "Maicol Ruidiaz",
+        "role": "Arquitecto Software",
         "social": [
             {
-                "link": "https://www.linkedin.com/in/barranquillajug/",
+                "link": "https://www.linkedin.com/in/maicol-r-8365a4b1/",
                 "icon": "fab fa-linkedin",
                 "title": "LinkedIn"
             },
             {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://x.com/barranquillajug",
-                "icon": "fab fa-x-twitter",
+                "link": "https://x.com/macavick",
+                "icon": "fab fa-twitter",
                 "title": "X"
             },
             {
-                "link": "https://github.com/",
+                "link": "https://github.com/mruidiazb",
                 "icon": "fab fa-github",
                 "title": "Github"
             }
@@ -87,53 +63,23 @@ const TeamData = [
     },
     {
         "image": "/img/faces/customers/4.png",
-        "name": "Lisa Trueman",
-        "role": "UI/UX Designer",
+        "name": "Betzabe Salas",
+        "role": "Software Engineer",
         "social": [
-            {
-                "link": "https://www.linkedin.com/in/barranquillajug/",
-                "icon": "fab fa-linkedin",
-                "title": "LinkedIn"
-            },
-            {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://x.com/barranquillajug",
-                "icon": "fab fa-x-twitter",
-                "title": "X"
-            },
-            {
-                "link": "https://github.com/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
+    ]
     },
     {
         "image": "/img/faces/customers/5.png",
-        "name": "Tom Oldman",
-        "role": "Software Engineer",
+        "name": "Joy Viloria",
+        "role": "UX/UI Designer",
         "social": [
             {
-                "link": "https://www.linkedin.com/in/barranquillajug/",
+                "link": "https://www.linkedin.com/in/JoyVilo/",
                 "icon": "fab fa-linkedin",
                 "title": "LinkedIn"
             },
             {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://x.com/barranquillajug",
-                "icon": "fab fa-x-twitter",
-                "title": "X"
-            },
-            {
-                "link": "https://github.com/",
+                "link": "https://github.com/JoyVilo",
                 "icon": "fab fa-github",
                 "title": "Github"
             }
@@ -141,26 +87,16 @@ const TeamData = [
     },
     {
         "image": "/img/faces/customers/6.png",
-        "name": "Corey Trueman",
-        "role": "Technical Director",
+        "name": "Laureano Lafaurie",
+        "role": "Organizador",
         "social": [
             {
-                "link": "https://www.linkedin.com/in/barranquillajug/",
+                "link": "https://www.linkedin.com/in/laureano-lafaurie/",
                 "icon": "fab fa-linkedin",
                 "title": "LinkedIn"
             },
             {
-                "link": "https://dribbble.com/",
-                "icon": "fab fa-dribbble",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://x.com/barranquillajug",
-                "icon": "fab fa-x-twitter",
-                "title": "X"
-            },
-            {
-                "link": "https://github.com/",
+                "link": "https://github.com/Laureano55",
                 "icon": "fab fa-github",
                 "title": "Github"
             }
