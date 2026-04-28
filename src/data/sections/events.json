@@ -3,6 +3,14 @@
     "description": "Participa en nuestros eventos mensuales donde compartimos conocimiento sobre Java y tecnologías relacionadas. Contamos con eventos presenciales y virtuales.",
     "events": [
         {
+            "month": "Mayo 2026",
+            "title": "Programación funcional en Java: El pilar de la arquitectura moderna",
+            "description": "Programación funcional en Java usando VAVR y dmx-fun, para volver a arquitecturas modernas más robustas y deterministas.",
+            "date": "Jueves 14 de Mayo, 2026 - 8:00 PM GMT-5",
+            "youtube_link": "https://www.youtube.com/watch?v=_wEr0cKuZnA",
+            "type": "virtual"
+        },
+        {
             "month": "Abril 2026",
             "title": "MCP con Java: La IA con Super Poderes",
             "description": "Descubre el Model Context Protocol aplicado al ecosistema Java. Aprende cómo conectar LLMs con bases de datos y APIs usando Spring AI para crear agentes autónomos, potentes y escalables sobre la JVM.",
