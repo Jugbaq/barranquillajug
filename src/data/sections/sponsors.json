@@ -21,11 +21,6 @@
         "subtitle": "Gracias a su apoyo, fortalecemos un ecosistema colaborativo e innovador en Barranquilla y la región Caribe.",
         "items": [
             {
-                "name": "CaribeDev",
-                "logo": "/img/partners/caribedev.png",
-                "link": "https://caribedev.com"
-            },
-            {
                 "name": "Pragma",
                 "logo": "/img/partners/pragma.png",
                 "link": "https://pragma.com.co"
@@ -61,12 +56,12 @@
             {
                 "name": "Tech Centre",
                 "logo": "/img/partners/techcentre.png",
-                "link": "https://techcentre.com"
+                "link": "https://www.techcentre.co/"
             },
             {
                 "name": "Mov Digital",
                 "logo": "/img/partners/movdigital.png",
-                "link": "https://movdigital.com"
+                "link": "https://www.costadigital.org/"
             },
             {
                 "name": "CSN",

@@ -59,4 +59,4 @@ Descubre cómo la IA está redefiniendo los perfiles de TI en todo el ciclo de v
 
 ---
 
-Un evento presencial con la comunidad Java de Barranquilla, patrocinado por **CaribeDev**, **Giniem**, **IDITEK** y **DevJVM**.
+Un evento presencial con la comunidad Java de Barranquilla, patrocinado por **Giniem**, **IDITEK** y **DevJVM**.
