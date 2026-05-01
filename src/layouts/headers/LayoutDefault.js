@@ -120,16 +120,16 @@ const DefaultHeader = ({ extraClass }) => {
 
                                   <div className="col-lg-4 mil-mb-60">
 
-                                      <h6 className="mil-muted mil-mb-30">Canada</h6>
+                                      <h6 className="mil-muted mil-mb-30">Colombia</h6>
 
-                                      <p className="mil-light-soft mil-up">71 South Los Carneros Road, California <span className="mil-no-wrap">+51 174 705 812</span></p>
+                                      <p className="mil-light-soft mil-up">Cl 41 # 20-120, Barranquilla, Colombia <span className="mil-no-wrap">barranquijava@gmail.com</span></p>
 
                                   </div>
                                   <div className="col-lg-4 mil-mb-60">
 
-                                      <h6 className="mil-muted mil-mb-30">Germany</h6>
+                                      <h6 className="mil-muted mil-mb-30">Colombia</h6>
 
-                                      <p className="mil-light-soft">Leehove 40, 2678 MC De Lier, Netherlands <span className="mil-no-wrap">+31 174 705 811</span></p>
+                                      <p className="mil-light-soft">Cl 63 # 25-30, Barranquilla, Colombia <span className="mil-no-wrap">barranquijava@gmail.com</span></p>
 
                                   </div>
                               </div>
