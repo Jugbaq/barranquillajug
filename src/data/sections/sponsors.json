@@ -21,6 +21,11 @@
         "subtitle": "Gracias a su apoyo, fortalecemos un ecosistema colaborativo e innovador en Barranquilla y la región Caribe.",
         "items": [
             {
+                "name": "ACM",
+                "logo": "/img/partners/acm.png",
+                "link": "https://www.uninorte.edu.co/web/bienestar-y-vida-universitaria/acm"
+            },
+            {
                 "name": "Pragma",
                 "logo": "/img/partners/pragma.png",
                 "link": "https://pragma.com.co"
@@ -45,6 +50,11 @@
                 "name": "Packt Publishing",
                 "logo": "/img/partners/packt.png",
                 "link": "https://www.packtpub.com"
+            },
+            {
+                "name": "Vincent Vauban",
+                "logo": "/img/partners/vvauban.png",
+                "link": "https://www.vvauban.com"
             }
         ]
     },
