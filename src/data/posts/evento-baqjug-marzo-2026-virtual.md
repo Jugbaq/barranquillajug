@@ -28,7 +28,6 @@ En nuestra sesión virtual de marzo 2026, exploramos la arquitectura EDA (Event-
 📅 **28 de Marzo de 2026 – 7:00 PM GMT-5**
 🖥️ **Evento Virtual**
 
-▶️ **[Ver en YouTube](https://www.youtube.com/watch?v=pkNK-GY7FEk&t=52s)**
 
 ---
 

@@ -28,7 +28,6 @@ En nuestra sesión virtual de mayo 2026, exploramos la programación funcional e
 📅 **14 de Mayo de 2026 – 8:00 PM GMT-5**
 🖥️ **Evento Virtual**
 
-▶️ **[Ver en YouTube](https://www.youtube.com/watch?v=_wEr0cKuZnA)**
 
 ---
 

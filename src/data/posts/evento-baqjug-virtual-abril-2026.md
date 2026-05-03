@@ -28,7 +28,6 @@ En nuestra sesión virtual de abril 2026, exploramos la implementación práctic
 📅 **28 de Abril de 2026 – 1:00 PM GMT-5**
 🖥️ **Evento Virtual**
 
-▶️ **[Ver en YouTube](https://www.youtube.com/watch?v=cMAM1rUulVM)**
 
 ---
 
