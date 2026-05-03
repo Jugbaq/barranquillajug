@@ -3,14 +3,14 @@
     "title2": "Impulsando la <span class=\"mil-thin\">Comunidad Java</span>",
     "subtitle": "Desde 2016 promoviendo el conocimiento y la innovación<br/> en el ecosistema Java.",
     "button": {
-        "link": "/#",
+        "link": "/events",
         "label": "Ver eventos"
     },
     "items": [
         {
             "title": "Charlas <br>Presenciales",
             "text": "Organizamos charlas y talleres presenciales en Barranquilla, donde expertos comparten conocimientos sobre las últimas tendencias en Java y tecnologías relacionadas.",
-            "link": "/#"
+            "link": "/events"
         },
         {
             "title": "Charlas <br>Virtuales",
@@ -20,12 +20,12 @@
         {
             "title": "Participación en <br>Eventos",
             "text": "Participamos activamente en conferencias y eventos tecnológicos nacionales e internacionales, representando a la comunidad de Barranquilla.",
-            "link": "/#"
+            "link": "/events"
         },
         {
             "title": "Actividades del <br>Grupo",
             "text": "Fomentamos la colaboración entre desarrolladores mediante meetups, hackathons y proyectos comunitarios que fortalecen el ecosistema Java en la región.",
-            "link": "/#"
+            "link": "/events"
         }
     ]
 }

@@ -2,6 +2,8 @@ import Layouts from "@layouts/Layouts";
 import PageBanner from "@components/PageBanner";
 import CallToActionSection from "@components/sections/CallToAction";
 import EventsData from "@data/sections/events.json";
+import Link from "next/link";
+import ArrowIcon from "@layouts/svg-icons/Arrow";
 
 const Events = () => {
   return (
@@ -37,14 +39,19 @@ const Events = () => {
                       {event.date}
                     </p>
                     <div style={{display: "flex", gap: "15px", flexWrap: "wrap"}}>
-                      {event.platform_link && (
+                      {event.post_id ? (
+                        <Link href={`/eventos/${event.post_id}`} className="mil-button mil-arrow-place mil-up" style={{fontSize: "12px", padding: "10px 22px"}}>
+                          <span>Ver detalle</span>
+                          <ArrowIcon />
+                        </Link>
+                      ) : event.platform_link && (
                         <a href={event.platform_link} target="_blank" className="mil-button mil-arrow-place mil-up" style={{fontSize: "12px", padding: "10px 22px"}}>
                           <span>Registrarse</span>
                         </a>
                       )}
                       {event.youtube_link && (
-                        <a href={event.youtube_link} target="_blank" style={{display: "inline-flex", alignItems: "center", gap: "8px", fontSize: "12px", padding: "10px 22px", border: "solid 1px rgba(0,0,0,0.2)", borderRadius: "2px", textDecoration: "none", letterSpacing: "1px", textTransform: "uppercase"}}>
-                          <i className="fab fa-youtube" style={{color: "#ff0000"}}></i>
+                        <a href={event.youtube_link} target="_blank" rel="noopener noreferrer" className="mil-button mil-arrow-place mil-up" style={{fontSize: "12px", padding: "10px 22px", background: "transparent", border: "solid 2px #ff0000", color: "#ff0000"}}>
+                          <i className="fab fa-youtube" style={{marginRight: "6px"}}></i>
                           <span>YouTube</span>
                         </a>
                       )}

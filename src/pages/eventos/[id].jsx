@@ -3,6 +3,7 @@ import { getAllPostsIds, getPostData, getRelatedPosts } from "@library/posts";
 import Date from '@library/date';
 import PageBanner from "@components/PageBanner";
 import RelatedPostsSection from "@components/sections/RelatedPosts";
+import ArrowIcon from "@layouts/svg-icons/Arrow";
 
 const EventoDetail = ( props ) => {
   
@@ -21,11 +22,38 @@ const EventoDetail = ( props ) => {
                       <div className="mil-up" style={{ width: "100%", height: "500px", backgroundColor: "#ffffff", display: "flex", justifyContent: "center", borderRadius: "15px", overflow: "hidden", marginBottom: "40px" }}>
                           <img src={postData.image} alt={postData.title} style={{ width: "100%", height: "100%", objectFit: "contain", padding: "15px" }} />
                       </div>
-                      <div className="mil-info mil-up mil-mb-90">
+                      <div className="mil-info mil-up mil-mb-60">
                           <div>Categoría: &nbsp;<span className="mil-dark">{postData.category}</span></div>
                           <div>Fecha: &nbsp;<span className="mil-dark"><Date dateString={postData.date} /></span></div>
                           <div>Organiza: &nbsp;<span className="mil-dark">{postData.author.name}</span></div>
                       </div>
+
+                      {postData.youtube_link && (
+                        <div className="mil-up mil-mb-60">
+                          <a
+                            href={postData.youtube_link}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            style={{
+                              display: "inline-flex",
+                              alignItems: "center",
+                              gap: "10px",
+                              background: "#ff0000",
+                              color: "#fff",
+                              padding: "14px 28px",
+                              borderRadius: "40px",
+                              fontWeight: "600",
+                              fontSize: "14px",
+                              letterSpacing: "1px",
+                              textTransform: "uppercase",
+                              textDecoration: "none"
+                            }}
+                          >
+                            <i className="fab fa-youtube" style={{fontSize: "18px"}}></i>
+                            Ver en YouTube
+                          </a>
+                        </div>
+                      )}
 
                   </div>
                   <div className="col-lg-8">

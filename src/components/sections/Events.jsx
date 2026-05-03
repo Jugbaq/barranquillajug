@@ -1,6 +1,7 @@
 import EventsData from "@data/sections/events.json";
 import ArrowIcon from "@layouts/svg-icons/Arrow";
 import Pentagon from "@layouts/pentagon/Index";
+import Link from "next/link";
 
 const EventsSection = () => {
   return (
@@ -42,9 +43,14 @@ const EventsSection = () => {
                           {event.date}
                         </p>
 
-                        {/* Botones: solo aparecen si el link existe */}
+                        {/* Botones: post_id → Ver detalle | platform_link → Registrarse */}
                         <div style={{display: "flex", gap: "10px", flexWrap: "wrap"}}>
-                          {event.platform_link && (
+                          {event.post_id ? (
+                            <Link href={`/eventos/${event.post_id}`} className="mil-button mil-arrow-place mil-up" style={{fontSize: "12px", padding: "10px 22px"}}>
+                              <span>Ver detalle</span>
+                              <ArrowIcon />
+                            </Link>
+                          ) : event.platform_link && (
                             <a href={event.platform_link} target="_blank" className="mil-button mil-arrow-place mil-up" style={{fontSize: "12px", padding: "10px 22px"}}>
                               <span>Registrarse</span>
                               <ArrowIcon />
@@ -54,6 +60,7 @@ const EventsSection = () => {
                             <a
                               href={event.youtube_link}
                               target="_blank"
+                              rel="noopener noreferrer"
                               className="mil-up"
                               style={{
                                 display: "inline-flex",

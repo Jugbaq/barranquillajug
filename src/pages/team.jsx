@@ -36,7 +36,21 @@ const TeamData = [
         "name": "Ricardo Cantillo",
         "role": "Software Engineer",
         "social": [
-
+            {
+                "link": "https://www.linkedin.com/in/ricardo-cantillo-9a9552119/?skipRedirect=true",
+                "icon": "fab fa-linkedin",
+                "title": "LinkedIn"
+            },
+            {
+                "link": "https://x.com/recantilloc",
+                "icon": "fab fa-twitter",
+                "title": "X"
+            },
+            {
+                "link": "https://github.com/recantilloSena/",
+                "icon": "fab fa-github",
+                "title": "Github"
+            }
         ]
     },
     {
@@ -66,6 +80,21 @@ const TeamData = [
         "name": "Betzabe Salas",
         "role": "Software Engineer",
         "social": [
+            {
+                "link": "https://www.linkedin.com/in/betzabe-maria-salas-vergara-4a3053176/",
+                "icon": "fab fa-linkedin",
+                "title": "LinkedIn"
+            },
+            {
+                "link": "http://cv-betzabe-salas.s3-website-us-east-1.amazonaws.com/",
+                "icon": "fas fa-globe",
+                "title": "Dribbble"
+            },
+            {
+                "link": "https://github.com/betzy-salas",
+                "icon": "fab fa-github",
+                "title": "Github"
+            }
     ]
     },
     {
