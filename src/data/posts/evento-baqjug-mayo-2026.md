@@ -2,6 +2,7 @@
 #preview
 title: 'BAQJUG Mayo 2026: Programación Funcional en Java'
 date: '2026-05-14'
+youtube_link: 'https://www.youtube.com/watch?v=_wEr0cKuZnA'
 image: "/img/blog/evento-virtual-mayo-2026.png"
 category:
     - Evento

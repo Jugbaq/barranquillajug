@@ -2,6 +2,7 @@
 #preview
 title: 'BAQJUG Marzo 2026: Quarkus & Kafka in Action'
 date: '2026-03-28'
+youtube_link: 'https://www.youtube.com/watch?v=pkNK-GY7FEk&t=52s'
 image: "/img/blog/evento-quarkus-kafka-marzo-2026.png"
 category:
   - Evento

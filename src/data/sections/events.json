@@ -8,6 +8,7 @@
             "description": "Programación funcional en Java usando VAVR y dmx-fun, para volver a arquitecturas modernas más robustas y deterministas.",
             "date": "Jueves 14 de Mayo, 2026 - 8:00 PM GMT-5",
             "youtube_link": "https://www.youtube.com/watch?v=_wEr0cKuZnA",
+            "post_id": "evento-baqjug-mayo-2026",
             "type": "virtual"
         },
         {
@@ -15,7 +16,7 @@
             "title": "MCP con Java: La IA con Super Poderes",
             "description": "Descubre el Model Context Protocol aplicado al ecosistema Java. Aprende cómo conectar LLMs con bases de datos y APIs usando Spring AI para crear agentes autónomos, potentes y escalables sobre la JVM.",
             "date": "Sábado 25 de Abril, 2026 - 8:30 AM | IDITEK, Cra. 53 #53-105, Nte. Centro Histórico",
-            "platform_link": "https://luma.com/3xz2tj6s",
+            "post_id": "evento-baqjug-abril-2026",
             "type": "presencial"
         },
         {
@@ -23,7 +24,7 @@
             "title": "IA & SDLC: La Nueva Era",
             "description": "Descubre cómo la IA está redefiniendo los perfiles de TI en todo el ciclo de vida del software.",
             "date": "Sábado 25 de Abril, 2026 - 8:30 AM | IDITEK, Cra. 53 #53-105, Nte. Centro Histórico",
-            "platform_link": "https://luma.com/3xz2tj6s",
+            "post_id": "evento-baqjug-abril-2026",
             "type": "presencial"
         },
         {
@@ -32,6 +33,7 @@
             "description": "Implementación práctica y determinista para garantizar desacoplamiento, alta cohesión y testeabilidad total por diseño.",
             "date": "Martes 28 de Abril, 2026 - 1:00 PM GMT-5",
             "youtube_link": "https://www.youtube.com/watch?v=cMAM1rUulVM",
+            "post_id": "evento-baqjug-virtual-abril-2026",
             "type": "virtual"
         },
         {
@@ -39,7 +41,7 @@
             "title": "UX para Devs",
             "description": "¿Por qué un buen backend no es suficiente? Aprende cómo las validaciones y errores en el código afectan directamente al usuario final.",
             "date": "Sábado 21 de Marzo, 2026 - 9:00 AM | Unicorsalud, Cra. 53 # 59-70, El Prado",
-            "youtube_link": "https://www.youtube.com/@BarranquillaJUG",
+            "post_id": "evento-baqjug-marzo-2026-presencial",
             "type": "presencial"
         },
         {
@@ -47,7 +49,7 @@
             "title": "IA y Clean Code: Construyendo el perfil del ingeniero 2026",
             "description": "Cómo usar IA como asistente para mejorar bases sólidas de Clean Code y mejorar la lógica de programación.",
             "date": "Sábado 21 de Marzo, 2026 - 9:00 AM | Unicorsalud, Cra. 53 # 59-70, El Prado",
-            "youtube_link": "https://www.youtube.com/@BarranquillaJUG",
+            "post_id": "evento-baqjug-marzo-2026-presencial",
             "type": "presencial"
         },
         {
@@ -56,6 +58,7 @@
             "description": "Arquitectura EDA de forma reactiva con Quarkus, Kafka y Mutiny para construir sistemas orientados a eventos modernos y escalables.",
             "date": "Sábado 28 de Marzo, 2026 - 7:00 PM GMT-5",
             "youtube_link": "https://www.youtube.com/watch?v=pkNK-GY7FEk&t=52s",
+            "post_id": "evento-baqjug-marzo-2026-virtual",
             "type": "virtual"
         }
     ]

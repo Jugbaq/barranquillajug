@@ -2,6 +2,7 @@
 #preview
 title: 'BAQJUG Abril 2026: Arquitectura Hexagonal en Código'
 date: '2026-04-28'
+youtube_link: 'https://www.youtube.com/watch?v=cMAM1rUulVM'
 image: "/img/blog/evento-hexagonal-abril-2026.png"
 category:
     - Evento
