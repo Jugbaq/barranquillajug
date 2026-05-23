@@ -26,11 +26,6 @@
                 "link": "https://www.uninorte.edu.co/web/bienestar-y-vida-universitaria/acm"
             },
             {
-                "name": "Pragma",
-                "logo": "/img/partners/pragma.png",
-                "link": "https://pragma.com.co"
-            },
-            {
                 "name": "Data",
                 "logo": "/img/partners/data.png",
                 "link": "https://data.com"
@@ -77,11 +72,6 @@
                 "name": "CSN",
                 "logo": "/img/partners/csn.png",
                 "link": "https://csn.com"
-            },
-            {
-                "name": "Hackatón Barranqui-IA",
-                "logo": "/img/partners/barranqui-ia.png",
-                "link": "https://www.caribe-ia.com/barranqui-ia/2026"
             }
         ]
     }
