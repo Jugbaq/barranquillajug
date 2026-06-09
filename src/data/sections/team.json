@@ -72,18 +72,18 @@
             ]
         },
         {
-            "image": "/img/faces/customers/4.png",
-            "name": "Betzabe Salas",
-            "role": "Software Engineer",
+            "image": "/img/faces/customers/5.png",
+            "name": "Joy Viloria",
+            "role": "UX/UI Designer",
             "social": [
                 {
                     "icon": "fab fa-linkedin",
-                    "link": "https://www.linkedin.com/in/betzabe-maria-salas-vergara-4a3053176/",
+                    "link": "https://www.linkedin.com/in/JoyVilo/",
                     "title": "LinkedIn"
                 },
                 {
                     "icon": "fab fa-github",
-                    "link": "https://github.com/betzy-salas",
+                    "link": "https://github.com/JoyVilo",
                     "title": "GitHub"
                 }
             ]
