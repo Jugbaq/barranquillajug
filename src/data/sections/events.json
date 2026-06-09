@@ -3,6 +3,22 @@
     "description": "Participa en nuestros eventos mensuales donde compartimos conocimiento sobre Java y tecnologías relacionadas. Contamos con eventos presenciales y virtuales.",
     "events": [
         {
+            "month": "Junio 2026",
+            "title": "Cómo se conecta el Ecosistema Tecnológico Empresarial",
+            "description": "Una charla diseñada para que desarrolles, paso a paso, las competencias clave del sector productivo.",
+            "date": "Sábado 13 de Junio, 2026 - 9:00 AM | IDITEK, Cra. 53 #53-105, Nte. Centro Histórico",
+            "platform_link": "https://luma.com/0iwvwnhw",
+            "type": "presencial"
+        },
+        {
+            "month": "Junio 2026",
+            "title": "Arquitectura Hexagonal en Kotlin: Spring es solo un detalle",
+            "description": "Con código real, cómo aplicar Arquitectura Hexagonal en Kotlin para aislar la lógica de negocio de frameworks y bases de datos.",
+            "date": "Sábado 13 de Junio, 2026 - 9:00 AM | IDITEK, Cra. 53 #53-105, Nte. Centro Histórico",
+            "platform_link": "https://luma.com/0iwvwnhw",
+            "type": "presencial"
+        },
+        {
             "month": "Mayo 2026",
             "title": "Programación funcional en Java: El pilar de la arquitectura moderna",
             "description": "Programación funcional en Java usando VAVR y dmx-fun, para volver a arquitecturas modernas más robustas y deterministas.",
