@@ -55,6 +55,11 @@
                 "name": "Vincent Vauban",
                 "logo": "/img/partners/vvauban.png",
                 "link": "https://www.vvauban.com"
+            },
+            {
+                "name": "JefToken",
+                "logo": "/img/partners/jeftoken.svg",
+                "link": "https://www.jeftoken.com/"
             }
         ]
     },
