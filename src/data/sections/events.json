@@ -4,10 +4,18 @@
     "events": [
         {
             "month": "Junio 2026",
+            "title": "From Zero to Hero: Dominando Domain-Driven Design en Java",
+            "description": "Un recorrido desde los fundamentos de DDD hasta sus patrones tácticos y estratégicos en Java. Aprende a construir sistemas alineados al negocio, escalables y resilientes con ejemplos reales.",
+            "date": "Jueves 18 de Junio, 2026 - 12:00 PM GMT-5",
+            "youtube_link": "https://www.youtube.com/watch?v=c00nvXLLH7c",
+            "type": "virtual"
+        },
+        {
+            "month": "Junio 2026",
             "title": "Cómo se conecta el Ecosistema Tecnológico Empresarial",
             "description": "Una charla diseñada para que desarrolles, paso a paso, las competencias clave del sector productivo.",
             "date": "Sábado 13 de Junio, 2026 - 9:00 AM | IDITEK, Cra. 53 #53-105, Nte. Centro Histórico",
-            "platform_link": "https://luma.com/0iwvwnhw",
+            "post_id": "evento-baqjug-junio-2026-presencial",
             "type": "presencial"
         },
         {
@@ -15,7 +23,7 @@
             "title": "Arquitectura Hexagonal en Kotlin: Spring es solo un detalle",
             "description": "Con código real, cómo aplicar Arquitectura Hexagonal en Kotlin para aislar la lógica de negocio de frameworks y bases de datos.",
             "date": "Sábado 13 de Junio, 2026 - 9:00 AM | IDITEK, Cra. 53 #53-105, Nte. Centro Histórico",
-            "platform_link": "https://luma.com/0iwvwnhw",
+            "post_id": "evento-baqjug-junio-2026-presencial",
             "type": "presencial"
         },
         {
