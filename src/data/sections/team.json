@@ -72,18 +72,18 @@
             ]
         },
         {
-            "image": "/img/faces/customers/5.png",
-            "name": "Joy Viloria",
-            "role": "UX/UI Designer",
+            "image": "/img/faces/customers/4.png",
+            "name": "Catalina Forero",
+            "role": "Full Stack Developer",
             "social": [
                 {
                     "icon": "fab fa-linkedin",
-                    "link": "https://www.linkedin.com/in/JoyVilo/",
+                    "link": "https://www.linkedin.com/in/catalinafs/",
                     "title": "LinkedIn"
                 },
                 {
                     "icon": "fab fa-github",
-                    "link": "https://github.com/JoyVilo",
+                    "link": "https://github.com/catalinafs",
                     "title": "GitHub"
                 }
             ]
