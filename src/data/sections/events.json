@@ -28,6 +28,14 @@
         },
         {
             "month": "Mayo 2026",
+            "title": "Barranquilla Feria Gammer 2026",
+            "description": "BAQJUG participó en la quinta edición de la Feria Gamer Uninorte — más de 400 participantes, decenas de videojuegos y proyectos estudiantiles donde creatividad, tecnología y código se fusionaron en el Coliseo Los Fundadores.",
+            "date": "Jueves 28 de Mayo, 2026 - 8:00 AM | Coliseo Los Fundadores, Universidad del Norte",
+            "post_id": "evento-baqjug-mayo-2026-feria-gammer",
+            "type": "presencial"
+        },
+        {
+            "month": "Mayo 2026",
             "title": "Programación funcional en Java: El pilar de la arquitectura moderna",
             "description": "Programación funcional en Java usando VAVR y dmx-fun, para volver a arquitecturas modernas más robustas y deterministas.",
             "date": "Jueves 14 de Mayo, 2026 - 8:00 PM GMT-5",
