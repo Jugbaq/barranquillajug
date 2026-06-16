@@ -77,21 +77,16 @@ const TeamData = [
     },
     {
         "image": "/img/faces/customers/4.png",
-        "name": "Betzabe Salas",
-        "role": "Software Engineer",
+        "name": "Catalina Forero",
+        "role": "Full Stack Developer",
         "social": [
             {
-                "link": "https://www.linkedin.com/in/betzabe-maria-salas-vergara-4a3053176/",
+                "link": "https://www.linkedin.com/in/catalinafs/",
                 "icon": "fab fa-linkedin",
                 "title": "LinkedIn"
             },
             {
-                "link": "http://cv-betzabe-salas.s3-website-us-east-1.amazonaws.com/",
-                "icon": "fas fa-globe",
-                "title": "Dribbble"
-            },
-            {
-                "link": "https://github.com/betzy-salas",
+                "link": "https://github.com/catalinafs",
                 "icon": "fab fa-github",
                 "title": "Github"
             }
