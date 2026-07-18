@@ -39,6 +39,11 @@
                 "name": "Kinnova",
                 "logo": "/img/partners/kinnova.png",
                 "link": "https://kinnova.com.co/"
+            },
+            {
+                "name": "Iditek",
+                "logo": "/img/partners/iditek.png",
+                "link": "https://iditek.edu.co/"
             }
         ]
     },
