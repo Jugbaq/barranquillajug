@@ -3,6 +3,14 @@
     "description": "Participa en nuestros eventos mensuales donde compartimos conocimiento sobre Java y tecnologías relacionadas. Contamos con eventos presenciales y virtuales.",
     "events": [
         {
+            "month": "Julio 2026",
+            "title": "Hands on: Una Wallet en Kotlin con Spring Boot",
+            "description": "Construimos juntos el backend de una wallet digital en Kotlin con Spring Boot, Gradle y Postgres. Código en vivo de principio a fin.",
+            "date": "Viernes 31 de Julio, 2026 - 6:00 PM | IDITEK, Cra. 53 # 53-79, Nte. Centro Histórico",
+            "platform_link": "https://luma.com/vlx8ws25",
+            "type": "presencial"
+        },
+        {
             "month": "Junio 2026",
             "title": "From Zero to Hero: Dominando Domain-Driven Design en Java",
             "description": "Un recorrido desde los fundamentos de DDD hasta sus patrones tácticos y estratégicos en Java. Aprende a construir sistemas alineados al negocio, escalables y resilientes con ejemplos reales.",
