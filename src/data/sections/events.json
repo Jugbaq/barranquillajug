@@ -11,6 +11,14 @@
             "type": "presencial"
         },
         {
+            "month": "Julio 2026",
+            "title": "Aprendamos DevSecOps moderno con Java",
+            "description": "En esta charla exploraremos el estado del arte de las practicas de seguridad de información, DevOps y por supuesto nuestro lenguaje favorito Java. Con un ejemplo E2E, analizaremos de principio a fin como practicas como IaC, análisis estático de código, e IA nos ayudan a producir código seguro en la era de los LLMs. En resúmen aprenderemos como herramientas \"viejas\" y nuevas, hacen mejores Harness para nuestro ciclo de desarrollo y entrega continua.",
+            "date": "Jueves 30 de Julio, 2026 - 06:00 PM GMT-5",
+            "youtube_link": "https://www.youtube.com/watch?v=XwY05hfHnlQ",
+            "type": "virtual"
+        },
+        {
             "month": "Junio 2026",
             "title": "From Zero to Hero: Dominando Domain-Driven Design en Java",
             "description": "Un recorrido desde los fundamentos de DDD hasta sus patrones tácticos y estratégicos en Java. Aprende a construir sistemas alineados al negocio, escalables y resilientes con ejemplos reales.",

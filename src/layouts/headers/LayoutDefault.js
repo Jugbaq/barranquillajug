@@ -129,7 +129,7 @@ const DefaultHeader = ({ extraClass }) => {
 
                                       <h6 className="mil-muted mil-mb-30">Colombia</h6>
 
-                                      <p className="mil-light-soft">Cl 63 # 25-30, Barranquilla, Colombia <span className="mil-no-wrap">barranquijava@gmail.com</span></p>
+                                      <p className="mil-light-soft">Cl 112 # 43-123, Barranquilla, Colombia <span className="mil-no-wrap">barranquijava@gmail.com</span></p>
 
                                   </div>
                               </div>
