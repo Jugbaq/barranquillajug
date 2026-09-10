@@ -32,28 +32,6 @@ const TeamData = [
         ]
     },
     {
-        "image": "/img/faces/customers/2.png",
-        "name": "Ricardo Cantillo",
-        "role": "Software Engineer",
-        "social": [
-            {
-                "link": "https://www.linkedin.com/in/ricardo-cantillo-9a9552119/?skipRedirect=true",
-                "icon": "fab fa-linkedin",
-                "title": "LinkedIn"
-            },
-            {
-                "link": "https://x.com/recantilloc",
-                "icon": "fab fa-twitter",
-                "title": "X"
-            },
-            {
-                "link": "https://github.com/recantilloSena/",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
-    },
-    {
         "image": "/img/faces/customers/3.png",
         "name": "Maicol Ruidiaz",
         "role": "Arquitecto Software",
@@ -91,23 +69,6 @@ const TeamData = [
                 "title": "Github"
             }
     ]
-    },
-    {
-        "image": "/img/faces/customers/5.png",
-        "name": "Joy Viloria",
-        "role": "UX/UI Designer",
-        "social": [
-            {
-                "link": "https://www.linkedin.com/in/JoyVilo/",
-                "icon": "fab fa-linkedin",
-                "title": "LinkedIn"
-            },
-            {
-                "link": "https://github.com/JoyVilo",
-                "icon": "fab fa-github",
-                "title": "Github"
-            }
-        ]
     },
     {
         "image": "/img/faces/customers/6.png",

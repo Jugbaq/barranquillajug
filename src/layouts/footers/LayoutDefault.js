@@ -71,7 +71,7 @@ const DefaultFooter = ( { extraClass } ) => {
 
                                 <h6 className="mil-muted mil-up mil-mb-30">Barranquilla, Colombia</h6>
 
-                                <p className="mil-light-soft mil-up">Cl 63 # 25-30, Barranquilla <span className="mil-no-wrap"><a href="mailto:barranquijava@gmail.com" className="mil-light-soft">barranquijava@gmail.com</a></span></p>
+                                <p className="mil-light-soft mil-up">Cl 112 # 43-123, Barranquilla <span className="mil-no-wrap"><a href="mailto:barranquijava@gmail.com" className="mil-light-soft">barranquijava@gmail.com</a></span></p>
 
                             </div>
                         </div>

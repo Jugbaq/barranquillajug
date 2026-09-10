@@ -26,16 +26,6 @@
                 "link": "https://www.uninorte.edu.co/web/bienestar-y-vida-universitaria/acm"
             },
             {
-                "name": "Data",
-                "logo": "/img/partners/data.png",
-                "link": "https://data.com"
-            },
-            {
-                "name": "Giniem",
-                "logo": "/img/partners/giniem.png",
-                "link": "https://giniem.com"
-            },
-            {
                 "name": "Kinnova",
                 "logo": "/img/partners/kinnova.png",
                 "link": "https://kinnova.com.co/"
@@ -74,14 +64,9 @@
         "subtitle": "Su respaldo impulsa la presencia de speakers, la innovación y el crecimiento profesional de la comunidad JVM en Barranquilla.",
         "items": [
             {
-                "name": "Tech Centre",
-                "logo": "/img/partners/techcentre.png",
-                "link": "https://www.techcentre.co/"
-            },
-            {
-                "name": "Mov Digital",
-                "logo": "/img/partners/movdigital.png",
-                "link": "https://www.costadigital.org/"
+                "name": "Giniem",
+                "logo": "/img/partners/giniem.png",
+                "link": "https://giniem.com"
             },
             {
                 "name": "CSN",
