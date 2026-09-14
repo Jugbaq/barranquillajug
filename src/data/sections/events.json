@@ -3,6 +3,14 @@
     "description": "Participa en nuestros eventos mensuales donde compartimos conocimiento sobre Java y tecnologías relacionadas. Contamos con eventos presenciales y virtuales.",
     "events": [
         {
+            "month": "Septiembre 2026",
+            "title": "El código ya no es el rey: SDD, Inteligencia Artificial y el arte de no teclear",
+            "description": "Aprende cómo el Spec-Driven Development (SDD) impulsado por IA te permite diseñar y gobernar tus aplicaciones antes de escribir una sola línea de código, usando OpenAPI, Java y Spring Boot.",
+            "date": "Jueves 24 de Septiembre, 2026 - 6:00 PM a 8:00 PM GMT-5 | Universidad Autónoma del Caribe, Cl. 90 #46-112, Riomar",
+            "platform_link": "https://luma.com/n7stvxob",
+            "type": "presencial"
+        },
+        {
             "month": "Julio 2026",
             "title": "Hands on: Una Wallet en Kotlin con Spring Boot",
             "description": "Construimos juntos el backend de una wallet digital en Kotlin con Spring Boot, Gradle y Postgres. Código en vivo de principio a fin.",
