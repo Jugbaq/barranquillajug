@@ -3,6 +3,14 @@
     "description": "Participa en nuestros eventos mensuales donde compartimos conocimiento sobre Java y tecnologías relacionadas. Contamos con eventos presenciales y virtuales.",
     "events": [
         {
+            "month": "Octubre 2026",
+            "title": "Mitos de Java en la Nueva Era de la IA",
+            "description": "Seis cosas que se dicen habitualmente sobre Java, contrastadas con fuentes oficiales. ¿Java es verboso? ¿Kotlin lo reemplazó? ¿Para IA hay que irse a Python? Algunas son mito. Otras, no tanto.",
+            "date": "Jueves 15 de Octubre, 2026 - 6:30 PM GMT-5",
+            "youtube_link": "https://www.youtube.com/watch?v=1uXqW4OATvA",
+            "type": "virtual"
+        },
+        {
             "month": "Septiembre 2026",
             "title": "Creando Agentes con Spring AI",
             "description": "Revisaremos los fundamentos de IA Generativa y Spring AI para la creación de agentes capaces de invocar lógica de negocio real en el ecosistema Java.",
