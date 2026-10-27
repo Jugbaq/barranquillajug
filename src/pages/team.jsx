@@ -71,6 +71,23 @@ const TeamData = [
     ]
     },
     {
+        "image": "/img/faces/customers/5.png",
+        "name": "Mijail Gonzalez",
+        "role": "Software Engineer",
+        "social": [
+            {
+                "link": "https://www.linkedin.com/in/mijail-gonzalez-v/",
+                "icon": "fab fa-linkedin",
+                "title": "LinkedIn"
+            },
+            {
+                "link": "https://github.com/mgonzalez0889",
+                "icon": "fab fa-github",
+                "title": "Github"
+            }
+        ]
+    },
+    {
         "image": "/img/faces/customers/6.png",
         "name": "Laureano Lafaurie",
         "role": "Organizador",

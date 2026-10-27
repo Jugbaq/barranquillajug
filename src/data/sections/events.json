@@ -4,6 +4,15 @@
     "events": [
         {
             "month": "Octubre 2026",
+            "title": "Descubriendo Flutter: Creando Experiencias Móviles Multiplataforma",
+            "description": "Conectamos Kotlin en el backend y Flutter en el mobile. Exploramos el potencial de Flutter a través de una aplicación real que consume una API en Kotlin — demostrando cómo el ecosistema JVM se integra con tecnologías completamente diferentes.",
+            "date": "Miércoles 28 de Octubre, 2026 - 6:00 PM | Universidad Autónoma del Caribe, Cl. 90 #46-112, Riomar",
+            "platform_link": "https://luma.com/8hd2rlbv",
+            "type": "presencial"
+        }
+        ,
+        {
+            "month": "Octubre 2026",
             "title": "Mitos de Java en la Nueva Era de la IA",
             "description": "Seis cosas que se dicen habitualmente sobre Java, contrastadas con fuentes oficiales. ¿Java es verboso? ¿Kotlin lo reemplazó? ¿Para IA hay que irse a Python? Algunas son mito. Otras, no tanto.",
             "date": "Jueves 15 de Octubre, 2026 - 6:30 PM GMT-5",

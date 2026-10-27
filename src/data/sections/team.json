@@ -55,35 +55,18 @@
     ],
     "col2_items": [
         {
-            "image": "/img/faces/customers/6.png",
-            "name": "Laureano Lafaurie",
-            "role": "Organizador",
+            "image": "/img/faces/customers/5.png",
+            "name": "Mijail Gonzalez",
+            "role": "Software Engineer",
             "social": [
                 {
                     "icon": "fab fa-linkedin",
-                    "link": "https://www.linkedin.com/in/laureano-lafaurie/",
+                    "link": "https://www.linkedin.com/in/mijail-gonzalez-v/",
                     "title": "LinkedIn"
                 },
                 {
                     "icon": "fab fa-github",
-                    "link": "https://github.com/Laureano55",
-                    "title": "GitHub"
-                }
-            ]
-        },
-        {
-            "image": "/img/faces/customers/4.png",
-            "name": "Catalina Forero",
-            "role": "Full Stack Developer",
-            "social": [
-                {
-                    "icon": "fab fa-linkedin",
-                    "link": "https://www.linkedin.com/in/catalinafs/",
-                    "title": "LinkedIn"
-                },
-                {
-                    "icon": "fab fa-github",
-                    "link": "https://github.com/catalinafs",
+                    "link": "https://github.com/mgonzalez0889",
                     "title": "GitHub"
                 }
             ]
